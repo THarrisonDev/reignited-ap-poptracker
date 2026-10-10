@@ -1,0 +1,16 @@
+{
+    "name": "Spyro Reignited Trilogy",
+    "game_name": "Spyro Reignited Trilogy",
+    "package_uid": "spyro_reignited_ap",
+    "package_version": "0.1.0",
+    "platform": "pc",
+    "author": "Tim Harrison",
+    "variants": {
+        "ap": {
+            "display_name": "Archipelago",
+            "flags": ["ap", "apmanual", "aphintgame"]
+        }
+    },
+    "min_poptracker_version": "0.31.0",
+    "target_poptracker_version": "0.35.4"
+}

@@ -1,0 +1,4262 @@
+[
+  {
+    "name": "Artisans",
+    "short_name": "Artisans",
+    "children": [
+      {
+        "name": "Spyro 1: Artisans: Free Nestor",
+        "sections": [
+          {
+            "name": "Free Nestor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Artisans",
+            "x": 138,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Artisans: Free Delbin",
+        "sections": [
+          {
+            "name": "Free Delbin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Artisans",
+            "x": 80,
+            "y": 270
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Artisans: Free Tomas",
+        "sections": [
+          {
+            "name": "Free Tomas",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Artisans",
+            "x": 274,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Artisans: Free Argus",
+        "sections": [
+          {
+            "name": "Free Argus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Artisans",
+            "x": 267,
+            "y": 133
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Artisans: Reach tricky platform (Skill Point)",
+        "sections": [
+          {
+            "name": "Reach tricky platform (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Artisans",
+            "x": 170,
+            "y": 157
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Artisans: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 30,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Artisans: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 64,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Artisans: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 98,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Artisans: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 132,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      }
+    ]
+  },
+  {
+    "name": "Town Square",
+    "short_name": "Town Square",
+    "children": [
+      {
+        "name": "Spyro 1: Town Square: Free Nils",
+        "sections": [
+          {
+            "name": "Free Nils",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TownSquare",
+            "x": 238,
+            "y": 277
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square: Free Devlin",
+        "sections": [
+          {
+            "name": "Free Devlin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TownSquare",
+            "x": 158,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square: Free Alvar",
+        "sections": [
+          {
+            "name": "Free Alvar",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TownSquare",
+            "x": 227,
+            "y": 162
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square: Free Thor",
+        "sections": [
+          {
+            "name": "Free Thor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TownSquare",
+            "x": 219,
+            "y": 218
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square: Catch the egg thief",
+        "sections": [
+          {
+            "name": "Catch the egg thief",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TownSquare",
+            "x": 47,
+            "y": 128
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square: All bulls stuck (Skill Point)",
+        "sections": [
+          {
+            "name": "All bulls stuck (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TownSquare",
+            "x": 214,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 166,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Town Square|spyro1_key_townsquare"
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 200,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Town Square|spyro1_key_townsquare"
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 234,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Town Square|spyro1_key_townsquare"
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 268,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Town Square|spyro1_key_townsquare"
+        ]
+      },
+      {
+        "name": "Spyro 1: Town Square Complete",
+        "sections": [
+          {
+            "name": "Town Square Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TownSquare",
+            "x": 289,
+            "y": 143
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stone Hill",
+    "short_name": "Stone Hill",
+    "children": [
+      {
+        "name": "Spyro 1: Stone Hill: Free Lindar",
+        "sections": [
+          {
+            "name": "Free Lindar",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_StoneHill",
+            "x": 62,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill: Free Astor",
+        "sections": [
+          {
+            "name": "Free Astor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_StoneHill",
+            "x": 181,
+            "y": 118
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill: Free Gavin",
+        "sections": [
+          {
+            "name": "Free Gavin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_StoneHill",
+            "x": 143,
+            "y": 210
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill: Free Gildas",
+        "sections": [
+          {
+            "name": "Free Gildas",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_StoneHill",
+            "x": 311,
+            "y": 164
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill: Catch the egg thief",
+        "sections": [
+          {
+            "name": "Catch the egg thief",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_StoneHill",
+            "x": 253,
+            "y": 225
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill: Burn the hidden pink tulip (Skill Point)",
+        "sections": [
+          {
+            "name": "Burn the hidden pink tulip (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_StoneHill",
+            "x": 269,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 302,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Stone Hill|spyro1_key_stonehill"
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 336,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Stone Hill|spyro1_key_stonehill"
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 370,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Stone Hill|spyro1_key_stonehill"
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 404,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Stone Hill|spyro1_key_stonehill"
+        ]
+      },
+      {
+        "name": "Spyro 1: Stone Hill Complete",
+        "sections": [
+          {
+            "name": "Stone Hill Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_StoneHill",
+            "x": 181,
+            "y": 95
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark Hollow",
+    "short_name": "Dark Hollow",
+    "children": [
+      {
+        "name": "Spyro 1: Dark Hollow: Free Alban",
+        "sections": [
+          {
+            "name": "Free Alban",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkHollow",
+            "x": 179,
+            "y": 127
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Hollow: Free Oswin",
+        "sections": [
+          {
+            "name": "Free Oswin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkHollow",
+            "x": 312,
+            "y": 319
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Hollow: Free Darius",
+        "sections": [
+          {
+            "name": "Free Darius",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkHollow",
+            "x": 303,
+            "y": 206
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Hollow: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 30,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dark Hollow|spyro1_key_darkhollow"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Hollow: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 64,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dark Hollow|spyro1_key_darkhollow"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Hollow: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 98,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dark Hollow|spyro1_key_darkhollow"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Hollow: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 132,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dark Hollow|spyro1_key_darkhollow"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Hollow Complete",
+        "sections": [
+          {
+            "name": "Dark Hollow Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkHollow",
+            "x": 328,
+            "y": 216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Toasty",
+    "short_name": "Toasty",
+    "children": [
+      {
+        "name": "Spyro 1: Toasty: Free Nevin",
+        "sections": [
+          {
+            "name": "Free Nevin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Toasty",
+            "x": 105,
+            "y": 96
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Toasty: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 166,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Toasty|spyro1_key_toasty"
+        ]
+      },
+      {
+        "name": "Spyro 1: Toasty Defeated",
+        "sections": [
+          {
+            "name": "Toasty Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Toasty",
+            "x": 259,
+            "y": 164
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sunny Flight",
+    "short_name": "Sunny Flight",
+    "children": [
+      {
+        "name": "Spyro 1: Sunny Flight Complete",
+        "sections": [
+          {
+            "name": "Sunny Flight Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_SunnyFlight",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Peace Keepers",
+    "short_name": "Peace Keepers",
+    "children": [
+      {
+        "name": "Spyro 1: Peace Keepers: Free Titan",
+        "sections": [
+          {
+            "name": "Free Titan",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_PeaceKeepers",
+            "x": 309,
+            "y": 254
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Peace Keepers: Free Magnus",
+        "sections": [
+          {
+            "name": "Free Magnus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_PeaceKeepers",
+            "x": 57,
+            "y": 225
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Peace Keepers: Free Gunnar",
+        "sections": [
+          {
+            "name": "Free Gunnar",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_PeaceKeepers",
+            "x": 170,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Peace Keepers: Catch the egg thief",
+        "sections": [
+          {
+            "name": "Catch the egg thief",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_PeaceKeepers",
+            "x": 182,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Peace Keepers: Scare 6 Gnorcs into tents (Skill Point)",
+        "sections": [
+          {
+            "name": "Scare 6 Gnorcs into tents (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_PeaceKeepers",
+            "x": 56,
+            "y": 266
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Peace Keepers: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 200,
+            "y": 64
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Peace Keepers: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 234,
+            "y": 64
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Peace Keepers: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 268,
+            "y": 64
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Peace Keepers: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 302,
+            "y": 64
+          }
+        ],
+        "access_rules": null
+      }
+    ]
+  },
+  {
+    "name": "Dry Canyon",
+    "short_name": "Dry Canyon",
+    "children": [
+      {
+        "name": "Spyro 1: Dry Canyon: Free Conan",
+        "sections": [
+          {
+            "name": "Free Conan",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DryCanyon",
+            "x": 285,
+            "y": 206
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dry Canyon: Free Boris",
+        "sections": [
+          {
+            "name": "Free Boris",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DryCanyon",
+            "x": 72,
+            "y": 213
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dry Canyon: Free Ivor",
+        "sections": [
+          {
+            "name": "Free Ivor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DryCanyon",
+            "x": 230,
+            "y": 168
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dry Canyon: Free Maximos",
+        "sections": [
+          {
+            "name": "Free Maximos",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DryCanyon",
+            "x": 163,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dry Canyon: Catch the egg thief",
+        "sections": [
+          {
+            "name": "Catch the egg thief",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DryCanyon",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dry Canyon: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 336,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dry Canyon|spyro1_key_drycanyon"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dry Canyon: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 370,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dry Canyon|spyro1_key_drycanyon"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dry Canyon: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 404,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dry Canyon|spyro1_key_drycanyon"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dry Canyon: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 30,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dry Canyon|spyro1_key_drycanyon"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dry Canyon Complete",
+        "sections": [
+          {
+            "name": "Dry Canyon Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DryCanyon",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cliff Town",
+    "short_name": "Cliff Town",
+    "children": [
+      {
+        "name": "Spyro 1: Cliff Town: Free Halvor",
+        "sections": [
+          {
+            "name": "Free Halvor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_CliffTown",
+            "x": 252,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Cliff Town: Free Enzo",
+        "sections": [
+          {
+            "name": "Free Enzo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_CliffTown",
+            "x": 230,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Cliff Town: Free Marco",
+        "sections": [
+          {
+            "name": "Free Marco",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_CliffTown",
+            "x": 233,
+            "y": 226
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Cliff Town: Catch the egg thief",
+        "sections": [
+          {
+            "name": "Catch the egg thief",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_CliffTown",
+            "x": 262,
+            "y": 171
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Cliff Town: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 64,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Cliff Town|spyro1_key_clifftown"
+        ]
+      },
+      {
+        "name": "Spyro 1: Cliff Town: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 98,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Cliff Town|spyro1_key_clifftown"
+        ]
+      },
+      {
+        "name": "Spyro 1: Cliff Town: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 132,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Cliff Town|spyro1_key_clifftown"
+        ]
+      },
+      {
+        "name": "Spyro 1: Cliff Town: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 166,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Cliff Town|spyro1_key_clifftown"
+        ]
+      },
+      {
+        "name": "Spyro 1: Cliff Town Complete",
+        "sections": [
+          {
+            "name": "Cliff Town Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_CliffTown",
+            "x": 253,
+            "y": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ice Cavern",
+    "short_name": "Ice Cavern",
+    "children": [
+      {
+        "name": "Spyro 1: Ice Cavern: Free Ulric",
+        "sections": [
+          {
+            "name": "Free Ulric",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_IceCavern",
+            "x": 26,
+            "y": 131
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Ice Cavern: Free Todor",
+        "sections": [
+          {
+            "name": "Free Todor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_IceCavern",
+            "x": 126,
+            "y": 92
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Ice Cavern: Free Andor",
+        "sections": [
+          {
+            "name": "Free Andor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_IceCavern",
+            "x": 237,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Ice Cavern: Free Asher",
+        "sections": [
+          {
+            "name": "Free Asher",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_IceCavern",
+            "x": 252,
+            "y": 291
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Ice Cavern: Free Ragnar",
+        "sections": [
+          {
+            "name": "Free Ragnar",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_IceCavern",
+            "x": 275,
+            "y": 325
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Ice Cavern: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 200,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Ice Cavern|spyro1_key_icecavern"
+        ]
+      },
+      {
+        "name": "Spyro 1: Ice Cavern: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 234,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Ice Cavern|spyro1_key_icecavern"
+        ]
+      },
+      {
+        "name": "Spyro 1: Ice Cavern: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 268,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Ice Cavern|spyro1_key_icecavern"
+        ]
+      },
+      {
+        "name": "Spyro 1: Ice Cavern: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 302,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Ice Cavern|spyro1_key_icecavern"
+        ]
+      },
+      {
+        "name": "Spyro 1: Ice Cavern Complete",
+        "sections": [
+          {
+            "name": "Ice Cavern Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_IceCavern",
+            "x": 231,
+            "y": 291
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Doctor Shemp",
+    "short_name": "Doctor Shemp",
+    "children": [
+      {
+        "name": "Spyro 1: Doctor Shemp: Free Trondo",
+        "sections": [
+          {
+            "name": "Free Trondo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DoctorShemp",
+            "x": 142,
+            "y": 239
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Doctor Shemp: Perfect (Skill Point)",
+        "sections": [
+          {
+            "name": "Perfect (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DoctorShemp",
+            "x": 176,
+            "y": 243
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Doctor Shemp: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 336,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Doctor Shemp|spyro1_key_doctorshemp"
+        ]
+      },
+      {
+        "name": "Spyro 1: Doctor Shemp Defeated",
+        "sections": [
+          {
+            "name": "Doctor Shemp Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DoctorShemp",
+            "x": 252,
+            "y": 163
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Night Flight",
+    "short_name": "Night Flight",
+    "children": [
+      {
+        "name": "Spyro 1: Night Flight Complete",
+        "sections": [
+          {
+            "name": "Night Flight Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_NightFlight",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Magic Crafters",
+    "short_name": "Magic Crafters",
+    "children": [
+      {
+        "name": "Spyro 1: Magic Crafters: Free Cosmos",
+        "sections": [
+          {
+            "name": "Free Cosmos",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MagicCrafters",
+            "x": 121,
+            "y": 149
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Magic Crafters: Free Zantor",
+        "sections": [
+          {
+            "name": "Free Zantor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MagicCrafters",
+            "x": 285,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Magic Crafters: Free Boldar",
+        "sections": [
+          {
+            "name": "Free Boldar",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MagicCrafters",
+            "x": 310,
+            "y": 269
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Magic Crafters: Catch the egg thief (start area)",
+        "sections": [
+          {
+            "name": "Catch the egg thief (start area)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MagicCrafters",
+            "x": 78,
+            "y": 191
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Magic Crafters: Catch the egg thief (supercharge ramp)",
+        "sections": [
+          {
+            "name": "Catch the egg thief (supercharge ramp)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MagicCrafters",
+            "x": 262,
+            "y": 111
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Magic Crafters: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 370,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Magic Crafters: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 404,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Magic Crafters: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 30,
+            "y": 132
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Magic Crafters: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 64,
+            "y": 132
+          }
+        ],
+        "access_rules": null
+      }
+    ]
+  },
+  {
+    "name": "Alpine Ridge",
+    "short_name": "Alpine Ridge",
+    "children": [
+      {
+        "name": "Spyro 1: Alpine Ridge: Free Zane",
+        "sections": [
+          {
+            "name": "Free Zane",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_AlpineRidge",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Alpine Ridge: Free Eldrid",
+        "sections": [
+          {
+            "name": "Free Eldrid",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_AlpineRidge",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Alpine Ridge: Free Zander",
+        "sections": [
+          {
+            "name": "Free Zander",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_AlpineRidge",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Alpine Ridge: Free Kelvin",
+        "sections": [
+          {
+            "name": "Free Kelvin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_AlpineRidge",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Alpine Ridge: Catch the egg thief",
+        "sections": [
+          {
+            "name": "Catch the egg thief",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_AlpineRidge",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Alpine Ridge: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 98,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Alpine Ridge|spyro1_key_alpineridge"
+        ]
+      },
+      {
+        "name": "Spyro 1: Alpine Ridge: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 132,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Alpine Ridge|spyro1_key_alpineridge"
+        ]
+      },
+      {
+        "name": "Spyro 1: Alpine Ridge: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 166,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Alpine Ridge|spyro1_key_alpineridge"
+        ]
+      },
+      {
+        "name": "Spyro 1: Alpine Ridge: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 200,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Alpine Ridge|spyro1_key_alpineridge"
+        ]
+      },
+      {
+        "name": "Spyro 1: Alpine Ridge Complete",
+        "sections": [
+          {
+            "name": "Alpine Ridge Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_AlpineRidge",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "High Caves",
+    "short_name": "High Caves",
+    "children": [
+      {
+        "name": "Spyro 1: High Caves: Free Ajax",
+        "sections": [
+          {
+            "name": "Free Ajax",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HighCaves",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves: Free Cyrus",
+        "sections": [
+          {
+            "name": "Free Cyrus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HighCaves",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves: Free Cedric",
+        "sections": [
+          {
+            "name": "Free Cedric",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HighCaves",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves: Catch the egg thief (supercharge pool)",
+        "sections": [
+          {
+            "name": "Catch the egg thief (supercharge pool)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HighCaves",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves: Catch the egg thief (archway ledge)",
+        "sections": [
+          {
+            "name": "Catch the egg thief (archway ledge)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HighCaves",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves: Burn hidden painting (Skill Point)",
+        "sections": [
+          {
+            "name": "Burn hidden painting (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HighCaves",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 234,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|High Caves|spyro1_key_highcaves"
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 268,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|High Caves|spyro1_key_highcaves"
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 302,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|High Caves|spyro1_key_highcaves"
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 336,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|High Caves|spyro1_key_highcaves"
+        ]
+      },
+      {
+        "name": "Spyro 1: High Caves Complete",
+        "sections": [
+          {
+            "name": "High Caves Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HighCaves",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wizard Peak",
+    "short_name": "Wizard Peak",
+    "children": [
+      {
+        "name": "Spyro 1: Wizard Peak: Free Jarvis",
+        "sections": [
+          {
+            "name": "Free Jarvis",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_WizardPeak",
+            "x": 125,
+            "y": 296
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Wizard Peak: Free Hexus",
+        "sections": [
+          {
+            "name": "Free Hexus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_WizardPeak",
+            "x": 240,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Wizard Peak: Free Lucas",
+        "sections": [
+          {
+            "name": "Free Lucas",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_WizardPeak",
+            "x": 312,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Wizard Peak: Catch the egg thief (hidden platform)",
+        "sections": [
+          {
+            "name": "Catch the egg thief (hidden platform)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_WizardPeak",
+            "x": 204,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Wizard Peak: Catch the egg thief (pool by steps)",
+        "sections": [
+          {
+            "name": "Catch the egg thief (pool by steps)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_WizardPeak",
+            "x": 282,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Wizard Peak: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 370,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Wizard Peak|spyro1_key_wizardpeak"
+        ]
+      },
+      {
+        "name": "Spyro 1: Wizard Peak: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 404,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Wizard Peak|spyro1_key_wizardpeak"
+        ]
+      },
+      {
+        "name": "Spyro 1: Wizard Peak: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 30,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Wizard Peak|spyro1_key_wizardpeak"
+        ]
+      },
+      {
+        "name": "Spyro 1: Wizard Peak: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 64,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Wizard Peak|spyro1_key_wizardpeak"
+        ]
+      },
+      {
+        "name": "Spyro 1: Wizard Peak Complete",
+        "sections": [
+          {
+            "name": "Wizard Peak Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_WizardPeak",
+            "x": 335,
+            "y": 130
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blowhard",
+    "short_name": "Blowhard",
+    "children": [
+      {
+        "name": "Spyro 1: Blowhard: Free Altair",
+        "sections": [
+          {
+            "name": "Free Altair",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Blowhard",
+            "x": 177,
+            "y": 207
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Blowhard: Ride a Druid platform for 10 seconds (Skill Point)",
+        "sections": [
+          {
+            "name": "Ride a Druid platform for 10 seconds (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Blowhard",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Blowhard: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 98,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Blowhard|spyro1_key_blowhard"
+        ]
+      },
+      {
+        "name": "Spyro 1: Blowhard Defeated",
+        "sections": [
+          {
+            "name": "Blowhard Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Blowhard",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crystal Flight",
+    "short_name": "Crystal Flight",
+    "children": [
+      {
+        "name": "Spyro 1: Crystal Flight Complete",
+        "sections": [
+          {
+            "name": "Crystal Flight Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_CrystalFlight",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Beast Makers",
+    "short_name": "Beast Makers",
+    "children": [
+      {
+        "name": "Spyro 1: Beast Makers: Free Bruno",
+        "sections": [
+          {
+            "name": "Free Bruno",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_BeastMakers",
+            "x": 153,
+            "y": 278
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Beast Makers: Free Cleetus",
+        "sections": [
+          {
+            "name": "Free Cleetus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_BeastMakers",
+            "x": 298,
+            "y": 289
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Beast Makers: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 132,
+            "y": 166
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Beast Makers: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 166,
+            "y": 166
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Beast Makers: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 200,
+            "y": 166
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Beast Makers: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 234,
+            "y": 166
+          }
+        ],
+        "access_rules": null
+      }
+    ]
+  },
+  {
+    "name": "Terrace Village",
+    "short_name": "Terrace Village",
+    "children": [
+      {
+        "name": "Spyro 1: Terrace Village: Free Claude",
+        "sections": [
+          {
+            "name": "Free Claude",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TerraceVillage",
+            "x": 278,
+            "y": 105
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Terrace Village: Free Cyprin",
+        "sections": [
+          {
+            "name": "Free Cyprin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TerraceVillage",
+            "x": 323,
+            "y": 279
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Terrace Village: No electric floor damage (Skill Point)",
+        "sections": [
+          {
+            "name": "No electric floor damage (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TerraceVillage",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Terrace Village: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 268,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Terrace Village|spyro1_key_terracevillage"
+        ]
+      },
+      {
+        "name": "Spyro 1: Terrace Village: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 302,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Terrace Village|spyro1_key_terracevillage"
+        ]
+      },
+      {
+        "name": "Spyro 1: Terrace Village: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 336,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Terrace Village|spyro1_key_terracevillage"
+        ]
+      },
+      {
+        "name": "Spyro 1: Terrace Village: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 370,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Terrace Village|spyro1_key_terracevillage"
+        ]
+      },
+      {
+        "name": "Spyro 1: Terrace Village Complete",
+        "sections": [
+          {
+            "name": "Terrace Village Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TerraceVillage",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Misty Bog",
+    "short_name": "Misty Bog",
+    "children": [
+      {
+        "name": "Spyro 1: Misty Bog: Free Rosco",
+        "sections": [
+          {
+            "name": "Free Rosco",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MistyBog",
+            "x": 250,
+            "y": 192
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Misty Bog: Free Damon",
+        "sections": [
+          {
+            "name": "Free Damon",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MistyBog",
+            "x": 352,
+            "y": 141
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Misty Bog: Free Bubba",
+        "sections": [
+          {
+            "name": "Free Bubba",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MistyBog",
+            "x": 120,
+            "y": 307
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Misty Bog: Free Zeke",
+        "sections": [
+          {
+            "name": "Free Zeke",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MistyBog",
+            "x": 82,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Misty Bog: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 404,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Misty Bog|spyro1_key_mistybog"
+        ]
+      },
+      {
+        "name": "Spyro 1: Misty Bog: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 30,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Misty Bog|spyro1_key_mistybog"
+        ]
+      },
+      {
+        "name": "Spyro 1: Misty Bog: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 64,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Misty Bog|spyro1_key_mistybog"
+        ]
+      },
+      {
+        "name": "Spyro 1: Misty Bog: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 98,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Misty Bog|spyro1_key_mistybog"
+        ]
+      },
+      {
+        "name": "Spyro 1: Misty Bog Complete",
+        "sections": [
+          {
+            "name": "Misty Bog Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_MistyBog",
+            "x": 79,
+            "y": 207
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tree Tops",
+    "short_name": "Tree Tops",
+    "children": [
+      {
+        "name": "Spyro 1: Tree Tops: Free Isaak",
+        "sections": [
+          {
+            "name": "Free Isaak",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TreeTops",
+            "x": 115,
+            "y": 221
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Tree Tops: Free Lyle",
+        "sections": [
+          {
+            "name": "Free Lyle",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TreeTops",
+            "x": 210,
+            "y": 194
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Tree Tops: Free Jed",
+        "sections": [
+          {
+            "name": "Free Jed",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TreeTops",
+            "x": 26,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Tree Tops: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 132,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Tree Tops|spyro1_key_treetops"
+        ]
+      },
+      {
+        "name": "Spyro 1: Tree Tops: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 166,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Tree Tops|spyro1_key_treetops"
+        ]
+      },
+      {
+        "name": "Spyro 1: Tree Tops: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 200,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Tree Tops|spyro1_key_treetops"
+        ]
+      },
+      {
+        "name": "Spyro 1: Tree Tops: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 234,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Tree Tops|spyro1_key_treetops"
+        ]
+      },
+      {
+        "name": "Spyro 1: Tree Tops Complete",
+        "sections": [
+          {
+            "name": "Tree Tops Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TreeTops",
+            "x": 357,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Metalhead",
+    "short_name": "Metalhead",
+    "children": [
+      {
+        "name": "Spyro 1: Metalhead: Free Sadiki",
+        "sections": [
+          {
+            "name": "Free Sadiki",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Metalhead",
+            "x": 118,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Metalhead: Perfect (Skill Point)",
+        "sections": [
+          {
+            "name": "Perfect (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Metalhead",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Metalhead: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 268,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Metalhead|spyro1_key_metalhead"
+        ]
+      },
+      {
+        "name": "Spyro 1: Metalhead Defeated",
+        "sections": [
+          {
+            "name": "Metalhead Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Metalhead",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wild Flight",
+    "short_name": "Wild Flight",
+    "children": [
+      {
+        "name": "Spyro 1: Wild Flight Complete",
+        "sections": [
+          {
+            "name": "Wild Flight Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_WildFlight",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dream Weavers",
+    "short_name": "Dream Weavers",
+    "children": [
+      {
+        "name": "Spyro 1: Dream Weavers: Free Lateef",
+        "sections": [
+          {
+            "name": "Free Lateef",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DreamWeavers",
+            "x": 159,
+            "y": 175
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dream Weavers: Free Zikomo",
+        "sections": [
+          {
+            "name": "Free Zikomo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DreamWeavers",
+            "x": 356,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dream Weavers: Free Mazi",
+        "sections": [
+          {
+            "name": "Free Mazi",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DreamWeavers",
+            "x": 69,
+            "y": 186
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dream Weavers: Secret room (Skill Point)",
+        "sections": [
+          {
+            "name": "Secret room (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DreamWeavers",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dream Weavers: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 302,
+            "y": 200
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Dream Weavers: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 336,
+            "y": 200
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Dream Weavers: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 370,
+            "y": 200
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Dream Weavers: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 404,
+            "y": 200
+          }
+        ],
+        "access_rules": null
+      }
+    ]
+  },
+  {
+    "name": "Dark Passage",
+    "short_name": "Dark Passage",
+    "children": [
+      {
+        "name": "Spyro 1: Dark Passage: Free Kasiya",
+        "sections": [
+          {
+            "name": "Free Kasiya",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkPassage",
+            "x": 240,
+            "y": 271
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Passage: Free Azizi",
+        "sections": [
+          {
+            "name": "Free Azizi",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkPassage",
+            "x": 342,
+            "y": 109
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Passage: Free Bakari",
+        "sections": [
+          {
+            "name": "Free Bakari",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkPassage",
+            "x": 296,
+            "y": 167
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Passage: Free Apara",
+        "sections": [
+          {
+            "name": "Free Apara",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkPassage",
+            "x": 59,
+            "y": 322
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Passage: Free Obasi",
+        "sections": [
+          {
+            "name": "Free Obasi",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkPassage",
+            "x": 114,
+            "y": 302
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Passage: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 30,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dark Passage|spyro1_key_darkpassage"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Passage: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 64,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dark Passage|spyro1_key_darkpassage"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Passage: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 98,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dark Passage|spyro1_key_darkpassage"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Passage: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 132,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Dark Passage|spyro1_key_darkpassage"
+        ]
+      },
+      {
+        "name": "Spyro 1: Dark Passage Complete",
+        "sections": [
+          {
+            "name": "Dark Passage Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_DarkPassage",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lofty Castle",
+    "short_name": "Lofty Castle",
+    "children": [
+      {
+        "name": "Spyro 1: Lofty Castle: Free Mudada",
+        "sections": [
+          {
+            "name": "Free Mudada",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_LoftyCastle",
+            "x": 244,
+            "y": 171
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Lofty Castle: Free Useni",
+        "sections": [
+          {
+            "name": "Free Useni",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_LoftyCastle",
+            "x": 85,
+            "y": 105
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Lofty Castle: Free Baruti",
+        "sections": [
+          {
+            "name": "Free Baruti",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_LoftyCastle",
+            "x": 161,
+            "y": 319
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Lofty Castle: Destroy hidden stump (Skill Point)",
+        "sections": [
+          {
+            "name": "Destroy hidden stump (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_LoftyCastle",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Lofty Castle: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 166,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Lofty Castle|spyro1_key_loftycastle"
+        ]
+      },
+      {
+        "name": "Spyro 1: Lofty Castle: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 200,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Lofty Castle|spyro1_key_loftycastle"
+        ]
+      },
+      {
+        "name": "Spyro 1: Lofty Castle: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 234,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Lofty Castle|spyro1_key_loftycastle"
+        ]
+      },
+      {
+        "name": "Spyro 1: Lofty Castle: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 268,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Lofty Castle|spyro1_key_loftycastle"
+        ]
+      },
+      {
+        "name": "Spyro 1: Lofty Castle Complete",
+        "sections": [
+          {
+            "name": "Lofty Castle Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_LoftyCastle",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Haunted Towers",
+    "short_name": "Haunted Towers",
+    "children": [
+      {
+        "name": "Spyro 1: Haunted Towers: Free Kosoko",
+        "sections": [
+          {
+            "name": "Free Kosoko",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HauntedTowers",
+            "x": 125,
+            "y": 187
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Haunted Towers: Free Lutalo",
+        "sections": [
+          {
+            "name": "Free Lutalo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HauntedTowers",
+            "x": 281,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Haunted Towers: Free Copano",
+        "sections": [
+          {
+            "name": "Free Copano",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HauntedTowers",
+            "x": 244,
+            "y": 246
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Haunted Towers: Burn blue wizard hat (Skill Point)",
+        "sections": [
+          {
+            "name": "Burn blue wizard hat (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HauntedTowers",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Haunted Towers: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 302,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Haunted Towers|spyro1_key_hauntedtowers"
+        ]
+      },
+      {
+        "name": "Spyro 1: Haunted Towers: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 336,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Haunted Towers|spyro1_key_hauntedtowers"
+        ]
+      },
+      {
+        "name": "Spyro 1: Haunted Towers: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 370,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Haunted Towers|spyro1_key_hauntedtowers"
+        ]
+      },
+      {
+        "name": "Spyro 1: Haunted Towers: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 404,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Haunted Towers|spyro1_key_hauntedtowers"
+        ]
+      },
+      {
+        "name": "Spyro 1: Haunted Towers Complete",
+        "sections": [
+          {
+            "name": "Haunted Towers Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_HauntedTowers",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jacques",
+    "short_name": "Jacques",
+    "children": [
+      {
+        "name": "Spyro 1: Jacques: Free Unika",
+        "sections": [
+          {
+            "name": "Free Unika",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Jacques",
+            "x": 220,
+            "y": 155
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Jacques: Free Revilo",
+        "sections": [
+          {
+            "name": "Free Revilo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Jacques",
+            "x": 92,
+            "y": 247
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Jacques: Perfect (Skill Point)",
+        "sections": [
+          {
+            "name": "Perfect (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Jacques",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Jacques: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 30,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Jacques|spyro1_key_jacques"
+        ]
+      },
+      {
+        "name": "Spyro 1: Jacques Defeated",
+        "sections": [
+          {
+            "name": "Jacques Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Jacques",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Icy Flight",
+    "short_name": "Icy Flight",
+    "children": [
+      {
+        "name": "Spyro 1: Icy Flight Complete",
+        "sections": [
+          {
+            "name": "Icy Flight Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_IcyFlight",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Gnexus",
+    "short_name": "Gnorc Gnexus",
+    "children": [
+      {
+        "name": "Spyro 1: Gnorc Gnexus: Free Delbin",
+        "sections": [
+          {
+            "name": "Free Delbin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_GnorcGnexus",
+            "x": 197,
+            "y": 194
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnorc Gnexus: Free Magnus",
+        "sections": [
+          {
+            "name": "Free Magnus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_GnorcGnexus",
+            "x": 220,
+            "y": 194
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnorc Gnexus: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 64,
+            "y": 268
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Gnorc Gnexus: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 98,
+            "y": 268
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Gnorc Gnexus: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 132,
+            "y": 268
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 1: Gnorc Gnexus: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 166,
+            "y": 268
+          }
+        ],
+        "access_rules": null
+      }
+    ]
+  },
+  {
+    "name": "Gnorc Cove",
+    "short_name": "Gnorc Cove",
+    "children": [
+      {
+        "name": "Spyro 1: Gnorc Cove: Free Lateef",
+        "sections": [
+          {
+            "name": "Free Lateef",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_GnorcCove",
+            "x": 109,
+            "y": 87
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnorc Cove: Free Tomas",
+        "sections": [
+          {
+            "name": "Free Tomas",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_GnorcCove",
+            "x": 303,
+            "y": 210
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnorc Cove: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 200,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Gnorc Cove|spyro1_key_gnorccove"
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnorc Cove: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 234,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Gnorc Cove|spyro1_key_gnorccove"
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnorc Cove: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 268,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Gnorc Cove|spyro1_key_gnorccove"
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnorc Cove: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 302,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Gnorc Cove|spyro1_key_gnorccove"
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnorc Cove Complete",
+        "sections": [
+          {
+            "name": "Gnorc Cove Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_GnorcCove",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Twilight Harbor",
+    "short_name": "Twilight Harbor",
+    "children": [
+      {
+        "name": "Spyro 1: Twilight Harbor: Free Cosmos",
+        "sections": [
+          {
+            "name": "Free Cosmos",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TwilightHarbor",
+            "x": 148,
+            "y": 286
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Twilight Harbor: Free Cleetus",
+        "sections": [
+          {
+            "name": "Free Cleetus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TwilightHarbor",
+            "x": 270,
+            "y": 210
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Twilight Harbor: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 336,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Twilight Harbor|spyro1_key_twilightharbor"
+        ]
+      },
+      {
+        "name": "Spyro 1: Twilight Harbor: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 370,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Twilight Harbor|spyro1_key_twilightharbor"
+        ]
+      },
+      {
+        "name": "Spyro 1: Twilight Harbor: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 404,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Twilight Harbor|spyro1_key_twilightharbor"
+        ]
+      },
+      {
+        "name": "Spyro 1: Twilight Harbor: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 30,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Twilight Harbor|spyro1_key_twilightharbor"
+        ]
+      },
+      {
+        "name": "Spyro 1: Twilight Harbor Complete",
+        "sections": [
+          {
+            "name": "Twilight Harbor Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_TwilightHarbor",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gnasty Gnorc",
+    "short_name": "Gnasty Gnorc",
+    "children": [
+      {
+        "name": "Spyro 1: Gnasty Gnorc: Perfect (Skill Point)",
+        "sections": [
+          {
+            "name": "Perfect (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_GnastyGnorc",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnasty Gnorc: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 64,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Gnasty Gnorc|spyro1_key_gnastygnorc"
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnasty Gnorc Defeated",
+        "sections": [
+          {
+            "name": "Gnasty Gnorc Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_GnastyGnorc",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gnasty's Loot",
+    "short_name": "Gnasty's Loot",
+    "children": [
+      {
+        "name": "Spyro 1: Gnasty's Loot: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 98,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Gnasty's Loot|spyro1_key_gnastysloot"
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnasty's Loot: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 132,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Gnasty's Loot|spyro1_key_gnastysloot"
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnasty's Loot: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 166,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Gnasty's Loot|spyro1_key_gnastysloot"
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnasty's Loot: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_Gems",
+            "x": 200,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro1|Gnasty's Loot|spyro1_key_gnastysloot"
+        ]
+      },
+      {
+        "name": "Spyro 1: Gnasty's Loot Complete",
+        "sections": [
+          {
+            "name": "Gnasty's Loot Complete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro1_GnastysLoot",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,723 @@
+[
+  {
+    "name": "spyro1_Gems",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_Gems.png"
+  },
+  {
+    "name": "spyro1_Artisans",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_Artisans.png"
+  },
+  {
+    "name": "spyro1_TownSquare",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_TownSquare.png"
+  },
+  {
+    "name": "spyro1_StoneHill",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_StoneHill.png"
+  },
+  {
+    "name": "spyro1_DarkHollow",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_DarkHollow.png"
+  },
+  {
+    "name": "spyro1_Toasty",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_Toasty.png"
+  },
+  {
+    "name": "spyro1_SunnyFlight",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_SunnyFlight.png"
+  },
+  {
+    "name": "spyro1_PeaceKeepers",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_PeaceKeepers.png"
+  },
+  {
+    "name": "spyro1_DryCanyon",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_DryCanyon.png"
+  },
+  {
+    "name": "spyro1_CliffTown",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_CliffTown.png"
+  },
+  {
+    "name": "spyro1_IceCavern",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_IceCavern.png"
+  },
+  {
+    "name": "spyro1_DoctorShemp",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_DoctorShemp.png"
+  },
+  {
+    "name": "spyro1_NightFlight",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_NightFlight.png"
+  },
+  {
+    "name": "spyro1_MagicCrafters",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_MagicCrafters.png"
+  },
+  {
+    "name": "spyro1_AlpineRidge",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_AlpineRidge.png"
+  },
+  {
+    "name": "spyro1_HighCaves",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_HighCaves.png"
+  },
+  {
+    "name": "spyro1_WizardPeak",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_WizardPeak.png"
+  },
+  {
+    "name": "spyro1_Blowhard",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_Blowhard.png"
+  },
+  {
+    "name": "spyro1_CrystalFlight",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_CrystalFlight.png"
+  },
+  {
+    "name": "spyro1_BeastMakers",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_BeastMakers.png"
+  },
+  {
+    "name": "spyro1_TerraceVillage",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_TerraceVillage.png"
+  },
+  {
+    "name": "spyro1_MistyBog",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_MistyBog.png"
+  },
+  {
+    "name": "spyro1_TreeTops",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_TreeTops.png"
+  },
+  {
+    "name": "spyro1_Metalhead",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_Metalhead.png"
+  },
+  {
+    "name": "spyro1_WildFlight",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_WildFlight.png"
+  },
+  {
+    "name": "spyro1_DreamWeavers",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_DreamWeavers.png"
+  },
+  {
+    "name": "spyro1_DarkPassage",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_DarkPassage.png"
+  },
+  {
+    "name": "spyro1_LoftyCastle",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_LoftyCastle.png"
+  },
+  {
+    "name": "spyro1_HauntedTowers",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_HauntedTowers.png"
+  },
+  {
+    "name": "spyro1_Jacques",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_Jacques.png"
+  },
+  {
+    "name": "spyro1_IcyFlight",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_IcyFlight.png"
+  },
+  {
+    "name": "spyro1_GnorcGnexus",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_GnorcGnexus.png"
+  },
+  {
+    "name": "spyro1_GnorcCove",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_GnorcCove.png"
+  },
+  {
+    "name": "spyro1_TwilightHarbor",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_TwilightHarbor.png"
+  },
+  {
+    "name": "spyro1_GnastyGnorc",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_GnastyGnorc.png"
+  },
+  {
+    "name": "spyro1_GnastysLoot",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro1_GnastysLoot.png"
+  },
+  {
+    "name": "spyro2_Gems",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_Gems.png"
+  },
+  {
+    "name": "spyro2_SummerForest",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_SummerForest.png"
+  },
+  {
+    "name": "spyro2_Glimmer",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_Glimmer.png"
+  },
+  {
+    "name": "spyro2_IdolSprings",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_IdolSprings.png"
+  },
+  {
+    "name": "spyro2_Colossus",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_Colossus.png"
+  },
+  {
+    "name": "spyro2_Hurricos",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_Hurricos.png"
+  },
+  {
+    "name": "spyro2_SunnyBeach",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_SunnyBeach.png"
+  },
+  {
+    "name": "spyro2_AquariaTowers",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_AquariaTowers.png"
+  },
+  {
+    "name": "spyro2_CrushsDungeon",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_CrushsDungeon.png"
+  },
+  {
+    "name": "spyro2_OceanSpeedway",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_OceanSpeedway.png"
+  },
+  {
+    "name": "spyro2_AutumnPlains",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_AutumnPlains.png"
+  },
+  {
+    "name": "spyro2_CrystalGlacier",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_CrystalGlacier.png"
+  },
+  {
+    "name": "spyro2_SkelosBadlands",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_SkelosBadlands.png"
+  },
+  {
+    "name": "spyro2_Zephyr",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_Zephyr.png"
+  },
+  {
+    "name": "spyro2_BreezeHarbor",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_BreezeHarbor.png"
+  },
+  {
+    "name": "spyro2_Scorch",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_Scorch.png"
+  },
+  {
+    "name": "spyro2_FractureHills",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_FractureHills.png"
+  },
+  {
+    "name": "spyro2_MagmaCone",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_MagmaCone.png"
+  },
+  {
+    "name": "spyro2_ShadyOasis",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_ShadyOasis.png"
+  },
+  {
+    "name": "spyro2_GulpsOverlook",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_GulpsOverlook.png"
+  },
+  {
+    "name": "spyro2_IcySpeedway",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_IcySpeedway.png"
+  },
+  {
+    "name": "spyro2_MetroSpeedway",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_MetroSpeedway.png"
+  },
+  {
+    "name": "spyro2_WinterTundra",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_WinterTundra.png"
+  },
+  {
+    "name": "spyro2_MysticMarsh",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_MysticMarsh.png"
+  },
+  {
+    "name": "spyro2_CloudTemples",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_CloudTemples.png"
+  },
+  {
+    "name": "spyro2_Metropolis",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_Metropolis.png"
+  },
+  {
+    "name": "spyro2_RoboticaFarms",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_RoboticaFarms.png"
+  },
+  {
+    "name": "spyro2_RiptosArena",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_RiptosArena.png"
+  },
+  {
+    "name": "spyro2_CanyonSpeedway",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro2_CanyonSpeedway.png"
+  },
+  {
+    "name": "spyro3_Gems",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_Gems.png"
+  },
+  {
+    "name": "spyro3_SunriseSpring",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SunriseSpring.png"
+  },
+  {
+    "name": "spyro3_SunnyVilla",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SunnyVilla.png"
+  },
+  {
+    "name": "spyro3_CloudSpires",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_CloudSpires.png"
+  },
+  {
+    "name": "spyro3_MoltenCrater",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_MoltenCrater.png"
+  },
+  {
+    "name": "spyro3_SeashellShore",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SeashellShore.png"
+  },
+  {
+    "name": "spyro3_SheilasAlp",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SheilasAlp.png"
+  },
+  {
+    "name": "spyro3_MushroomSpeedway",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_MushroomSpeedway.png"
+  },
+  {
+    "name": "spyro3_BuzzsDungeon",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_BuzzsDungeon.png"
+  },
+  {
+    "name": "spyro3_CrawdadFarm",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_CrawdadFarm.png"
+  },
+  {
+    "name": "spyro3_MiddayGardens",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_MiddayGardens.png"
+  },
+  {
+    "name": "spyro3_IcyPeak",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_IcyPeak.png"
+  },
+  {
+    "name": "spyro3_EnchantedTowers",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_EnchantedTowers.png"
+  },
+  {
+    "name": "spyro3_SpookySwamp",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SpookySwamp.png"
+  },
+  {
+    "name": "spyro3_BambooTerrace",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_BambooTerrace.png"
+  },
+  {
+    "name": "spyro3_SgtByrdBase",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SgtByrdBase.png"
+  },
+  {
+    "name": "spyro3_CountrySpeedway",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_CountrySpeedway.png"
+  },
+  {
+    "name": "spyro3_SpikesArena",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SpikesArena.png"
+  },
+  {
+    "name": "spyro3_SpiderTown",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SpiderTown.png"
+  },
+  {
+    "name": "spyro3_EveningLake",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_EveningLake.png"
+  },
+  {
+    "name": "spyro3_LostFleet",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_LostFleet.png"
+  },
+  {
+    "name": "spyro3_FrozenAltars",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_FrozenAltars.png"
+  },
+  {
+    "name": "spyro3_FireworksFactory",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_FireworksFactory.png"
+  },
+  {
+    "name": "spyro3_CharmedRidge",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_CharmedRidge.png"
+  },
+  {
+    "name": "spyro3_BentleysOutpost",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_BentleysOutpost.png"
+  },
+  {
+    "name": "spyro3_HoneySpeedway",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_HoneySpeedway.png"
+  },
+  {
+    "name": "spyro3_ScorchsPit",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_ScorchsPit.png"
+  },
+  {
+    "name": "spyro3_StarfishReef",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_StarfishReef.png"
+  },
+  {
+    "name": "spyro3_MidnightMountain",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_MidnightMountain.png"
+  },
+  {
+    "name": "spyro3_CrystalIslands",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_CrystalIslands.png"
+  },
+  {
+    "name": "spyro3_DesertRuins",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_DesertRuins.png"
+  },
+  {
+    "name": "spyro3_HauntedTomb",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_HauntedTomb.png"
+  },
+  {
+    "name": "spyro3_DinoMines",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_DinoMines.png"
+  },
+  {
+    "name": "spyro3_Agent9sLab",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_Agent9sLab.png"
+  },
+  {
+    "name": "spyro3_HarborSpeedway",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_HarborSpeedway.png"
+  },
+  {
+    "name": "spyro3_SorceressLair",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SorceressLair.png"
+  },
+  {
+    "name": "spyro3_BugbotFactory",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_BugbotFactory.png"
+  },
+  {
+    "name": "spyro3_SuperBonusRound",
+    "location_size": 24,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/spyro3_SuperBonusRound.png"
+  }
+]

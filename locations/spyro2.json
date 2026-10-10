@@ -1,0 +1,3342 @@
+[
+  {
+    "name": "Summer Forest",
+    "short_name": "Summer Forest",
+    "children": [
+      {
+        "name": "Spyro 2: Summer Forest: Hunter's challenge",
+        "sections": [
+          {
+            "name": "Hunter's challenge",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SummerForest",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Summer Forest: On a secret ledge",
+        "sections": [
+          {
+            "name": "On a secret ledge",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SummerForest",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Summer Forest: Atop a ladder",
+        "sections": [
+          {
+            "name": "Atop a ladder",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SummerForest",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Summer Forest: Behind the door",
+        "sections": [
+          {
+            "name": "Behind the door",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SummerForest",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Summer Forest: Swim Ability",
+        "sections": [
+          {
+            "name": "Swim Ability",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SummerForest",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Summer Forest: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 30,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 2: Summer Forest: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 64,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 2: Summer Forest: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 98,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 2: Summer Forest: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 132,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      }
+    ]
+  },
+  {
+    "name": "Glimmer",
+    "short_name": "Glimmer",
+    "children": [
+      {
+        "name": "Spyro 2: Glimmer: Lizard hunt",
+        "sections": [
+          {
+            "name": "Lizard hunt",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Glimmer",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Glimmer: Gem lamp flight outdoors",
+        "sections": [
+          {
+            "name": "Gem lamp flight outdoors",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Glimmer",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Glimmer: Gem lamp flight in cave",
+        "sections": [
+          {
+            "name": "Gem lamp flight in cave",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Glimmer",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Glimmer: Magic Pick",
+        "sections": [
+          {
+            "name": "Magic Pick",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Glimmer",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Glimmer: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 166,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Glimmer|spyro2_key_glimmer"
+        ]
+      },
+      {
+        "name": "Spyro 2: Glimmer: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 200,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Glimmer|spyro2_key_glimmer"
+        ]
+      },
+      {
+        "name": "Spyro 2: Glimmer: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 234,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Glimmer|spyro2_key_glimmer"
+        ]
+      },
+      {
+        "name": "Spyro 2: Glimmer: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 268,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Glimmer|spyro2_key_glimmer"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Idol Springs",
+    "short_name": "Idol Springs",
+    "children": [
+      {
+        "name": "Spyro 2: Idol Springs: Foreman Bud's puzzles",
+        "sections": [
+          {
+            "name": "Foreman Bud's puzzles",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_IdolSprings",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Idol Springs: Hula Girl rescue",
+        "sections": [
+          {
+            "name": "Hula Girl rescue",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_IdolSprings",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Idol Springs: Jade Idol",
+        "sections": [
+          {
+            "name": "Jade Idol",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_IdolSprings",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Idol Springs: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 302,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Idol Springs|spyro2_key_idolsprings"
+        ]
+      },
+      {
+        "name": "Spyro 2: Idol Springs: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 336,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Idol Springs|spyro2_key_idolsprings"
+        ]
+      },
+      {
+        "name": "Spyro 2: Idol Springs: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 370,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Idol Springs|spyro2_key_idolsprings"
+        ]
+      },
+      {
+        "name": "Spyro 2: Idol Springs: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 404,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Idol Springs|spyro2_key_idolsprings"
+        ]
+      },
+      {
+        "name": "Spyro 2: Idol Springs: Land on Idol (Skill Point)",
+        "sections": [
+          {
+            "name": "Land on Idol (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_IdolSprings",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colossus",
+    "short_name": "Colossus",
+    "children": [
+      {
+        "name": "Spyro 2: Colossus: Hockey vs. Goalie",
+        "sections": [
+          {
+            "name": "Hockey vs. Goalie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Colossus",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Colossus: Hockey one on one",
+        "sections": [
+          {
+            "name": "Hockey one on one",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Colossus",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Colossus: Evil spirit search",
+        "sections": [
+          {
+            "name": "Evil spirit search",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Colossus",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Colossus: Gold Statue",
+        "sections": [
+          {
+            "name": "Gold Statue",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Colossus",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Colossus: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 30,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Colossus|spyro2_key_colossus"
+        ]
+      },
+      {
+        "name": "Spyro 2: Colossus: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 64,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Colossus|spyro2_key_colossus"
+        ]
+      },
+      {
+        "name": "Spyro 2: Colossus: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 98,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Colossus|spyro2_key_colossus"
+        ]
+      },
+      {
+        "name": "Spyro 2: Colossus: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 132,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Colossus|spyro2_key_colossus"
+        ]
+      },
+      {
+        "name": "Spyro 2: Colossus: Perfect in Hockey (Skill Point)",
+        "sections": [
+          {
+            "name": "Perfect in Hockey (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Colossus",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hurricos",
+    "short_name": "Hurricos",
+    "children": [
+      {
+        "name": "Spyro 2: Hurricos: Stone thief chase",
+        "sections": [
+          {
+            "name": "Stone thief chase",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Hurricos",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Hurricos: Factory Glide 1",
+        "sections": [
+          {
+            "name": "Factory Glide 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Hurricos",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Hurricos: Factory Glide 2",
+        "sections": [
+          {
+            "name": "Factory Glide 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Hurricos",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Hurricos: Gear of Power",
+        "sections": [
+          {
+            "name": "Gear of Power",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Hurricos",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Hurricos: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 166,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Hurricos|spyro2_key_hurricos"
+        ]
+      },
+      {
+        "name": "Spyro 2: Hurricos: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 200,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Hurricos|spyro2_key_hurricos"
+        ]
+      },
+      {
+        "name": "Spyro 2: Hurricos: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 234,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Hurricos|spyro2_key_hurricos"
+        ]
+      },
+      {
+        "name": "Spyro 2: Hurricos: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 268,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Hurricos|spyro2_key_hurricos"
+        ]
+      },
+      {
+        "name": "Spyro 2: Hurricos: All Windmills (Skill Point)",
+        "sections": [
+          {
+            "name": "All Windmills (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Hurricos",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sunny Beach",
+    "short_name": "Sunny Beach",
+    "children": [
+      {
+        "name": "Spyro 2: Sunny Beach: Blasting boxes",
+        "sections": [
+          {
+            "name": "Blasting boxes",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SunnyBeach",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Sunny Beach: Turtle soup I",
+        "sections": [
+          {
+            "name": "Turtle soup I",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SunnyBeach",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Sunny Beach: Turtle soup II",
+        "sections": [
+          {
+            "name": "Turtle soup II",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SunnyBeach",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Sunny Beach: Turtle Medallion",
+        "sections": [
+          {
+            "name": "Turtle Medallion",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SunnyBeach",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Sunny Beach: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 302,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Sunny Beach|spyro2_key_sunnybeach"
+        ]
+      },
+      {
+        "name": "Spyro 2: Sunny Beach: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 336,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Sunny Beach|spyro2_key_sunnybeach"
+        ]
+      },
+      {
+        "name": "Spyro 2: Sunny Beach: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 370,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Sunny Beach|spyro2_key_sunnybeach"
+        ]
+      },
+      {
+        "name": "Spyro 2: Sunny Beach: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 404,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Sunny Beach|spyro2_key_sunnybeach"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aquaria Towers",
+    "short_name": "Aquaria Towers",
+    "children": [
+      {
+        "name": "Spyro 2: Aquaria Towers: Seahorse rescue",
+        "sections": [
+          {
+            "name": "Seahorse rescue",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_AquariaTowers",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Aquaria Towers: Manta ride I",
+        "sections": [
+          {
+            "name": "Manta ride I",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_AquariaTowers",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Aquaria Towers: Manta ride II",
+        "sections": [
+          {
+            "name": "Manta ride II",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_AquariaTowers",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Aquaria Towers: Enchanted Shell",
+        "sections": [
+          {
+            "name": "Enchanted Shell",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_AquariaTowers",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Aquaria Towers: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 30,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Aquaria Towers|spyro2_key_aquariatowers"
+        ]
+      },
+      {
+        "name": "Spyro 2: Aquaria Towers: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 64,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Aquaria Towers|spyro2_key_aquariatowers"
+        ]
+      },
+      {
+        "name": "Spyro 2: Aquaria Towers: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 98,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Aquaria Towers|spyro2_key_aquariatowers"
+        ]
+      },
+      {
+        "name": "Spyro 2: Aquaria Towers: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 132,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Aquaria Towers|spyro2_key_aquariatowers"
+        ]
+      },
+      {
+        "name": "Spyro 2: Aquaria Towers: All Seaweed (Skill Point)",
+        "sections": [
+          {
+            "name": "All Seaweed (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_AquariaTowers",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crush's Dungeon",
+    "short_name": "Crush's Dungeon",
+    "children": [
+      {
+        "name": "Spyro 2: Crush's Dungeon: Crush Defeated",
+        "sections": [
+          {
+            "name": "Crush Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CrushsDungeon",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Crush's Dungeon: Perfect (Skill Point)",
+        "sections": [
+          {
+            "name": "Perfect (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CrushsDungeon",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ocean Speedway",
+    "short_name": "Ocean Speedway",
+    "children": [
+      {
+        "name": "Spyro 2: Ocean Speedway: Follow Hunter",
+        "sections": [
+          {
+            "name": "Follow Hunter",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_OceanSpeedway",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Ocean Speedway: Under 1:10 (Skill Point)",
+        "sections": [
+          {
+            "name": "Under 1:10 (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_OceanSpeedway",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Autumn Plains",
+    "short_name": "Autumn Plains",
+    "children": [
+      {
+        "name": "Spyro 2: Autumn Plains: The end of the wall",
+        "sections": [
+          {
+            "name": "The end of the wall",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_AutumnPlains",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Autumn Plains: Long glide!",
+        "sections": [
+          {
+            "name": "Long glide!",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_AutumnPlains",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Autumn Plains: Climb Ability",
+        "sections": [
+          {
+            "name": "Climb Ability",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_AutumnPlains",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Autumn Plains: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 166,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 2: Autumn Plains: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 200,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 2: Autumn Plains: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 234,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 2: Autumn Plains: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 268,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      }
+    ]
+  },
+  {
+    "name": "Crystal Glacier",
+    "short_name": "Crystal Glacier",
+    "children": [
+      {
+        "name": "Spyro 2: Crystal Glacier: Draclet cave",
+        "sections": [
+          {
+            "name": "Draclet cave",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CrystalGlacier",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Crystal Glacier: George the snow leopard",
+        "sections": [
+          {
+            "name": "George the snow leopard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CrystalGlacier",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Crystal Glacier: Ice Crystal",
+        "sections": [
+          {
+            "name": "Ice Crystal",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CrystalGlacier",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Crystal Glacier: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 302,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Crystal Glacier|spyro2_key_crystalglacier"
+        ]
+      },
+      {
+        "name": "Spyro 2: Crystal Glacier: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 336,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Crystal Glacier|spyro2_key_crystalglacier"
+        ]
+      },
+      {
+        "name": "Spyro 2: Crystal Glacier: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 370,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Crystal Glacier|spyro2_key_crystalglacier"
+        ]
+      },
+      {
+        "name": "Spyro 2: Crystal Glacier: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 404,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Crystal Glacier|spyro2_key_crystalglacier"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skelos Badlands",
+    "short_name": "Skelos Badlands",
+    "children": [
+      {
+        "name": "Spyro 2: Skelos Badlands: Lava lizards I",
+        "sections": [
+          {
+            "name": "Lava lizards I",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SkelosBadlands",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Skelos Badlands: Lava lizards II",
+        "sections": [
+          {
+            "name": "Lava lizards II",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SkelosBadlands",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Skelos Badlands: Dem bones",
+        "sections": [
+          {
+            "name": "Dem bones",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SkelosBadlands",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Skelos Badlands: Ancient Bone",
+        "sections": [
+          {
+            "name": "Ancient Bone",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SkelosBadlands",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Skelos Badlands: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 30,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Skelos Badlands|spyro2_key_skelosbadlands"
+        ]
+      },
+      {
+        "name": "Spyro 2: Skelos Badlands: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 64,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Skelos Badlands|spyro2_key_skelosbadlands"
+        ]
+      },
+      {
+        "name": "Spyro 2: Skelos Badlands: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 98,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Skelos Badlands|spyro2_key_skelosbadlands"
+        ]
+      },
+      {
+        "name": "Spyro 2: Skelos Badlands: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 132,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Skelos Badlands|spyro2_key_skelosbadlands"
+        ]
+      },
+      {
+        "name": "Spyro 2: Skelos Badlands: Catbat Quartet (Skill Point)",
+        "sections": [
+          {
+            "name": "Catbat Quartet (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SkelosBadlands",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Skelos Badlands: All Cacti (Skill Point)",
+        "sections": [
+          {
+            "name": "All Cacti (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_SkelosBadlands",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zephyr",
+    "short_name": "Zephyr",
+    "children": [
+      {
+        "name": "Spyro 2: Zephyr: Cowlek corral I",
+        "sections": [
+          {
+            "name": "Cowlek corral I",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Zephyr",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Zephyr: Cowlek corral II",
+        "sections": [
+          {
+            "name": "Cowlek corral II",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Zephyr",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Zephyr: Sowing seeds I",
+        "sections": [
+          {
+            "name": "Sowing seeds I",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Zephyr",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Zephyr: Sowing seeds II",
+        "sections": [
+          {
+            "name": "Sowing seeds II",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Zephyr",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Zephyr: Ruby Bomb",
+        "sections": [
+          {
+            "name": "Ruby Bomb",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Zephyr",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Zephyr: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 166,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Zephyr|spyro2_key_zephyr"
+        ]
+      },
+      {
+        "name": "Spyro 2: Zephyr: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 200,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Zephyr|spyro2_key_zephyr"
+        ]
+      },
+      {
+        "name": "Spyro 2: Zephyr: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 234,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Zephyr|spyro2_key_zephyr"
+        ]
+      },
+      {
+        "name": "Spyro 2: Zephyr: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 268,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Zephyr|spyro2_key_zephyr"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Breeze Harbor",
+    "short_name": "Breeze Harbor",
+    "children": [
+      {
+        "name": "Spyro 2: Breeze Harbor: Mine blast",
+        "sections": [
+          {
+            "name": "Mine blast",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_BreezeHarbor",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Breeze Harbor: Gear grab",
+        "sections": [
+          {
+            "name": "Gear grab",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_BreezeHarbor",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Breeze Harbor: Glass Anchor",
+        "sections": [
+          {
+            "name": "Glass Anchor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_BreezeHarbor",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Breeze Harbor: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 302,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Breeze Harbor|spyro2_key_breezeharbor"
+        ]
+      },
+      {
+        "name": "Spyro 2: Breeze Harbor: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 336,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Breeze Harbor|spyro2_key_breezeharbor"
+        ]
+      },
+      {
+        "name": "Spyro 2: Breeze Harbor: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 370,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Breeze Harbor|spyro2_key_breezeharbor"
+        ]
+      },
+      {
+        "name": "Spyro 2: Breeze Harbor: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 404,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Breeze Harbor|spyro2_key_breezeharbor"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Scorch",
+    "short_name": "Scorch",
+    "children": [
+      {
+        "name": "Spyro 2: Scorch: Barrel of Monkeys",
+        "sections": [
+          {
+            "name": "Barrel of Monkeys",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Scorch",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Scorch: Capture the flags",
+        "sections": [
+          {
+            "name": "Capture the flags",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Scorch",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Scorch: Emerald Scarab",
+        "sections": [
+          {
+            "name": "Emerald Scarab",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Scorch",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Scorch: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 30,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Scorch|spyro2_key_scorch"
+        ]
+      },
+      {
+        "name": "Spyro 2: Scorch: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 64,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Scorch|spyro2_key_scorch"
+        ]
+      },
+      {
+        "name": "Spyro 2: Scorch: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 98,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Scorch|spyro2_key_scorch"
+        ]
+      },
+      {
+        "name": "Spyro 2: Scorch: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 132,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Scorch|spyro2_key_scorch"
+        ]
+      },
+      {
+        "name": "Spyro 2: Scorch: All Trees (Skill Point)",
+        "sections": [
+          {
+            "name": "All Trees (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Scorch",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fracture Hills",
+    "short_name": "Fracture Hills",
+    "children": [
+      {
+        "name": "Spyro 2: Fracture Hills: Free the faun",
+        "sections": [
+          {
+            "name": "Free the faun",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_FractureHills",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Fracture Hills: Alchemist escort",
+        "sections": [
+          {
+            "name": "Alchemist escort",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_FractureHills",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Fracture Hills: Earthshaper bash",
+        "sections": [
+          {
+            "name": "Earthshaper bash",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_FractureHills",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Fracture Hills: Bronze Flute",
+        "sections": [
+          {
+            "name": "Bronze Flute",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_FractureHills",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Fracture Hills: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 166,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Fracture Hills|spyro2_key_fracturehills"
+        ]
+      },
+      {
+        "name": "Spyro 2: Fracture Hills: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 200,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Fracture Hills|spyro2_key_fracturehills"
+        ]
+      },
+      {
+        "name": "Spyro 2: Fracture Hills: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 234,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Fracture Hills|spyro2_key_fracturehills"
+        ]
+      },
+      {
+        "name": "Spyro 2: Fracture Hills: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 268,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Fracture Hills|spyro2_key_fracturehills"
+        ]
+      },
+      {
+        "name": "Spyro 2: Fracture Hills: 3 Laps of Supercharge (Skill Point)",
+        "sections": [
+          {
+            "name": "3 Laps of Supercharge (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_FractureHills",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Magma Cone",
+    "short_name": "Magma Cone",
+    "children": [
+      {
+        "name": "Spyro 2: Magma Cone: Party crashers",
+        "sections": [
+          {
+            "name": "Party crashers",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_MagmaCone",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Magma Cone: Crystal geysers I",
+        "sections": [
+          {
+            "name": "Crystal geysers I",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_MagmaCone",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Magma Cone: Crystal geysers II",
+        "sections": [
+          {
+            "name": "Crystal geysers II",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_MagmaCone",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Magma Cone: Volcano Idol",
+        "sections": [
+          {
+            "name": "Volcano Idol",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_MagmaCone",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Magma Cone: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 302,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Magma Cone|spyro2_key_magmacone"
+        ]
+      },
+      {
+        "name": "Spyro 2: Magma Cone: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 336,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Magma Cone|spyro2_key_magmacone"
+        ]
+      },
+      {
+        "name": "Spyro 2: Magma Cone: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 370,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Magma Cone|spyro2_key_magmacone"
+        ]
+      },
+      {
+        "name": "Spyro 2: Magma Cone: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 404,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Magma Cone|spyro2_key_magmacone"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shady Oasis",
+    "short_name": "Shady Oasis",
+    "children": [
+      {
+        "name": "Spyro 2: Shady Oasis: Catch 3 thieves",
+        "sections": [
+          {
+            "name": "Catch 3 thieves",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_ShadyOasis",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Shady Oasis: Free Hippos",
+        "sections": [
+          {
+            "name": "Free Hippos",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_ShadyOasis",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Shady Oasis: Mystic Lamp",
+        "sections": [
+          {
+            "name": "Mystic Lamp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_ShadyOasis",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Shady Oasis: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 30,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Shady Oasis|spyro2_key_shadyoasis"
+        ]
+      },
+      {
+        "name": "Spyro 2: Shady Oasis: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 64,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Shady Oasis|spyro2_key_shadyoasis"
+        ]
+      },
+      {
+        "name": "Spyro 2: Shady Oasis: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 98,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Shady Oasis|spyro2_key_shadyoasis"
+        ]
+      },
+      {
+        "name": "Spyro 2: Shady Oasis: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 132,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Shady Oasis|spyro2_key_shadyoasis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gulp's Overlook",
+    "short_name": "Gulp's Overlook",
+    "children": [
+      {
+        "name": "Spyro 2: Gulp's Overlook: Gulp Defeated",
+        "sections": [
+          {
+            "name": "Gulp Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_GulpsOverlook",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Gulp's Overlook: Perfect (Skill Point)",
+        "sections": [
+          {
+            "name": "Perfect (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_GulpsOverlook",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Gulp's Overlook: Hit Ripto (Skill Point)",
+        "sections": [
+          {
+            "name": "Hit Ripto (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_GulpsOverlook",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Icy Speedway",
+    "short_name": "Icy Speedway",
+    "children": [
+      {
+        "name": "Spyro 2: Icy Speedway: Parasail through Rings",
+        "sections": [
+          {
+            "name": "Parasail through Rings",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_IcySpeedway",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Icy Speedway: Under 1:15 (Skill Point)",
+        "sections": [
+          {
+            "name": "Under 1:15 (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_IcySpeedway",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Metro Speedway",
+    "short_name": "Metro Speedway",
+    "children": [
+      {
+        "name": "Spyro 2: Metro Speedway: Grab the Loot",
+        "sections": [
+          {
+            "name": "Grab the Loot",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_MetroSpeedway",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Metro Speedway: Under 1:15 (Skill Point)",
+        "sections": [
+          {
+            "name": "Under 1:15 (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_MetroSpeedway",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Winter Tundra",
+    "short_name": "Winter Tundra",
+    "children": [
+      {
+        "name": "Spyro 2: Winter Tundra: Top of the waterfall",
+        "sections": [
+          {
+            "name": "Top of the waterfall",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_WinterTundra",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Winter Tundra: On the tall wall",
+        "sections": [
+          {
+            "name": "On the tall wall",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_WinterTundra",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Winter Tundra: Smash the rock",
+        "sections": [
+          {
+            "name": "Smash the rock",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_WinterTundra",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Winter Tundra: Headbash Ability",
+        "sections": [
+          {
+            "name": "Headbash Ability",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_WinterTundra",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Winter Tundra: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 166,
+            "y": 200
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 2: Winter Tundra: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 200,
+            "y": 200
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 2: Winter Tundra: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 234,
+            "y": 200
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 2: Winter Tundra: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 268,
+            "y": 200
+          }
+        ],
+        "access_rules": null
+      }
+    ]
+  },
+  {
+    "name": "Mystic Marsh",
+    "short_name": "Mystic Marsh",
+    "children": [
+      {
+        "name": "Spyro 2: Mystic Marsh: Fix the fountain",
+        "sections": [
+          {
+            "name": "Fix the fountain",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_MysticMarsh",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Mystic Marsh: Very versatile thieves!",
+        "sections": [
+          {
+            "name": "Very versatile thieves!",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_MysticMarsh",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Mystic Marsh: Retrieve professor's pencil",
+        "sections": [
+          {
+            "name": "Retrieve professor's pencil",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_MysticMarsh",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Mystic Marsh: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 302,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Mystic Marsh|spyro2_key_mysticmarsh"
+        ]
+      },
+      {
+        "name": "Spyro 2: Mystic Marsh: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 336,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Mystic Marsh|spyro2_key_mysticmarsh"
+        ]
+      },
+      {
+        "name": "Spyro 2: Mystic Marsh: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 370,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Mystic Marsh|spyro2_key_mysticmarsh"
+        ]
+      },
+      {
+        "name": "Spyro 2: Mystic Marsh: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 404,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Mystic Marsh|spyro2_key_mysticmarsh"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cloud Temples",
+    "short_name": "Cloud Temples",
+    "children": [
+      {
+        "name": "Spyro 2: Cloud Temples: Break down doors",
+        "sections": [
+          {
+            "name": "Break down doors",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CloudTemples",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Cloud Temples: Ring tower bells",
+        "sections": [
+          {
+            "name": "Ring tower bells",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CloudTemples",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Cloud Temples: Agent Zero's hideout",
+        "sections": [
+          {
+            "name": "Agent Zero's hideout",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CloudTemples",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Cloud Temples: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 30,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Cloud Temples|spyro2_key_cloudtemples"
+        ]
+      },
+      {
+        "name": "Spyro 2: Cloud Temples: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 64,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Cloud Temples|spyro2_key_cloudtemples"
+        ]
+      },
+      {
+        "name": "Spyro 2: Cloud Temples: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 98,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Cloud Temples|spyro2_key_cloudtemples"
+        ]
+      },
+      {
+        "name": "Spyro 2: Cloud Temples: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 132,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Cloud Temples|spyro2_key_cloudtemples"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Metropolis",
+    "short_name": "Metropolis",
+    "children": [
+      {
+        "name": "Spyro 2: Metropolis: Conquer invading cows",
+        "sections": [
+          {
+            "name": "Conquer invading cows",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Metropolis",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Metropolis: Shoot down sheep saucers I",
+        "sections": [
+          {
+            "name": "Shoot down sheep saucers I",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Metropolis",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Metropolis: Shoot down sheep saucers II",
+        "sections": [
+          {
+            "name": "Shoot down sheep saucers II",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Metropolis",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Metropolis: Ox bombing",
+        "sections": [
+          {
+            "name": "Ox bombing",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Metropolis",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Metropolis: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 166,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Metropolis|spyro2_key_metropolis"
+        ]
+      },
+      {
+        "name": "Spyro 2: Metropolis: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 200,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Metropolis|spyro2_key_metropolis"
+        ]
+      },
+      {
+        "name": "Spyro 2: Metropolis: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 234,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Metropolis|spyro2_key_metropolis"
+        ]
+      },
+      {
+        "name": "Spyro 2: Metropolis: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 268,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Metropolis|spyro2_key_metropolis"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Robotica Farms",
+    "short_name": "Robotica Farms",
+    "children": [
+      {
+        "name": "Spyro 2: Robotica Farms: Switch on bug light",
+        "sections": [
+          {
+            "name": "Switch on bug light",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_RoboticaFarms",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Robotica Farms: Clear tractor path",
+        "sections": [
+          {
+            "name": "Clear tractor path",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_RoboticaFarms",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Robotica Farms: Exterminate crow bugs",
+        "sections": [
+          {
+            "name": "Exterminate crow bugs",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_RoboticaFarms",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Robotica Farms: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 302,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Robotica Farms|spyro2_key_roboticafarms"
+        ]
+      },
+      {
+        "name": "Spyro 2: Robotica Farms: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 336,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Robotica Farms|spyro2_key_roboticafarms"
+        ]
+      },
+      {
+        "name": "Spyro 2: Robotica Farms: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 370,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Robotica Farms|spyro2_key_roboticafarms"
+        ]
+      },
+      {
+        "name": "Spyro 2: Robotica Farms: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_Gems",
+            "x": 404,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro2|Robotica Farms|spyro2_key_roboticafarms"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ripto's Arena",
+    "short_name": "Ripto's Arena",
+    "children": [
+      {
+        "name": "Spyro 2: Ripto's Arena: Ripto Defeated",
+        "sections": [
+          {
+            "name": "Ripto Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_RiptosArena",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Ripto's Arena: Perfect (Skill Point)",
+        "sections": [
+          {
+            "name": "Perfect (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_RiptosArena",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Canyon Speedway",
+    "short_name": "Canyon Speedway",
+    "children": [
+      {
+        "name": "Spyro 2: Canyon Speedway: Shoot down balloons",
+        "sections": [
+          {
+            "name": "Shoot down balloons",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CanyonSpeedway",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 2: Canyon Speedway: Under 1:10 (Skill Point)",
+        "sections": [
+          {
+            "name": "Under 1:10 (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro2_CanyonSpeedway",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  }
+]

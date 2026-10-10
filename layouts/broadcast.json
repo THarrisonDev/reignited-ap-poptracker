@@ -1,0 +1,19 @@
+{
+    "tracker_broadcast": {
+        "type": "container",
+        "content": [
+            {
+                "type": "dock",
+                "dock": "top",
+                "content": {
+                    "type": "layout",
+                    "key": "header_items"
+                }
+            },
+            {
+                "type": "layout",
+                "key": "game_tabs"
+            }
+        ]
+    }
+}

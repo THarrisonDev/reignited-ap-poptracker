@@ -1,0 +1,5164 @@
+[
+  {
+    "name": "Sunrise Spring",
+    "short_name": "Sunrise Spring",
+    "children": [
+      {
+        "name": "Spyro 3: Sunrise Spring: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Sunrise Spring: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Sunrise Spring: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Sunrise Spring: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 30
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Sunrise Spring: Isabelle",
+        "sections": [
+          {
+            "name": "Isabelle",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunriseSpring",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunrise Spring: Coltrane",
+        "sections": [
+          {
+            "name": "Coltrane",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunriseSpring",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunrise Spring: Ami",
+        "sections": [
+          {
+            "name": "Ami",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunriseSpring",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunrise Spring: Bruce",
+        "sections": [
+          {
+            "name": "Bruce",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunriseSpring",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunrise Spring: Liam",
+        "sections": [
+          {
+            "name": "Liam",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunriseSpring",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sunny Villa",
+    "short_name": "Sunny Villa",
+    "children": [
+      {
+        "name": "Spyro 3: Sunny Villa: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sunny Villa|spyro3_key_sunnyvilla"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sunny Villa|spyro3_key_sunnyvilla"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sunny Villa|spyro3_key_sunnyvilla"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sunny Villa|spyro3_key_sunnyvilla"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: Sanders",
+        "sections": [
+          {
+            "name": "Sanders",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunnyVilla",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: Vanessa",
+        "sections": [
+          {
+            "name": "Vanessa",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunnyVilla",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: Miles",
+        "sections": [
+          {
+            "name": "Miles",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunnyVilla",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: Emily",
+        "sections": [
+          {
+            "name": "Emily",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunnyVilla",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: Daisy",
+        "sections": [
+          {
+            "name": "Daisy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunnyVilla",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: Lucy",
+        "sections": [
+          {
+            "name": "Lucy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunnyVilla",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: Flame all trees (Skill Point)",
+        "sections": [
+          {
+            "name": "Flame all trees (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunnyVilla",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sunny Villa: Skateboard course record I (Skill Point)",
+        "sections": [
+          {
+            "name": "Skateboard course record I (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SunnyVilla",
+            "x": 200,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cloud Spires",
+    "short_name": "Cloud Spires",
+    "children": [
+      {
+        "name": "Spyro 3: Cloud Spires: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 302,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Cloud Spires|spyro3_key_cloudspires"
+        ]
+      },
+      {
+        "name": "Spyro 3: Cloud Spires: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 336,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Cloud Spires|spyro3_key_cloudspires"
+        ]
+      },
+      {
+        "name": "Spyro 3: Cloud Spires: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 370,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Cloud Spires|spyro3_key_cloudspires"
+        ]
+      },
+      {
+        "name": "Spyro 3: Cloud Spires: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 404,
+            "y": 30
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Cloud Spires|spyro3_key_cloudspires"
+        ]
+      },
+      {
+        "name": "Spyro 3: Cloud Spires: Clare",
+        "sections": [
+          {
+            "name": "Clare",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CloudSpires",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Cloud Spires: Stephanie",
+        "sections": [
+          {
+            "name": "Stephanie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CloudSpires",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Cloud Spires: Henry",
+        "sections": [
+          {
+            "name": "Henry",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CloudSpires",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Cloud Spires: LuLu",
+        "sections": [
+          {
+            "name": "LuLu",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CloudSpires",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Cloud Spires: Jake",
+        "sections": [
+          {
+            "name": "Jake",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CloudSpires",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Cloud Spires: Bryan",
+        "sections": [
+          {
+            "name": "Bryan",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CloudSpires",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Molten Crater",
+    "short_name": "Molten Crater",
+    "children": [
+      {
+        "name": "Spyro 3: Molten Crater: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Molten Crater|spyro3_key_moltencrater"
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Molten Crater|spyro3_key_moltencrater"
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Molten Crater|spyro3_key_moltencrater"
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Molten Crater|spyro3_key_moltencrater"
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: Curlie",
+        "sections": [
+          {
+            "name": "Curlie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MoltenCrater",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: Rikki",
+        "sections": [
+          {
+            "name": "Rikki",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MoltenCrater",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: Moira",
+        "sections": [
+          {
+            "name": "Moira",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MoltenCrater",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: Kermitt",
+        "sections": [
+          {
+            "name": "Kermitt",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MoltenCrater",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: Luna",
+        "sections": [
+          {
+            "name": "Luna",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MoltenCrater",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: Ryan",
+        "sections": [
+          {
+            "name": "Ryan",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MoltenCrater",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: Assemble tiki heads (Skill Point)",
+        "sections": [
+          {
+            "name": "Assemble tiki heads (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MoltenCrater",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Molten Crater: Supercharge the wall (Skill Point)",
+        "sections": [
+          {
+            "name": "Supercharge the wall (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MoltenCrater",
+            "x": 200,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Seashell Shore",
+    "short_name": "Seashell Shore",
+    "children": [
+      {
+        "name": "Spyro 3: Seashell Shore: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Seashell Shore|spyro3_key_seashellshore"
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Seashell Shore|spyro3_key_seashellshore"
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Seashell Shore|spyro3_key_seashellshore"
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Seashell Shore|spyro3_key_seashellshore"
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: Dizzy",
+        "sections": [
+          {
+            "name": "Dizzy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SeashellShore",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: Jason",
+        "sections": [
+          {
+            "name": "Jason",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SeashellShore",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: Mollie",
+        "sections": [
+          {
+            "name": "Mollie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SeashellShore",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: Jared",
+        "sections": [
+          {
+            "name": "Jared",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SeashellShore",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: Jackie",
+        "sections": [
+          {
+            "name": "Jackie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SeashellShore",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: Duke",
+        "sections": [
+          {
+            "name": "Duke",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SeashellShore",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Seashell Shore: Catch the funky chicken (Skill Point)",
+        "sections": [
+          {
+            "name": "Catch the funky chicken (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SeashellShore",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sheila's Alp",
+    "short_name": "Sheila's Alp",
+    "children": [
+      {
+        "name": "Spyro 3: Sheila's Alp: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 302,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sheila's Alp|spyro3_key_sheilasalp"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sheila's Alp: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 336,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sheila's Alp|spyro3_key_sheilasalp"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sheila's Alp: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 370,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sheila's Alp|spyro3_key_sheilasalp"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sheila's Alp: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 404,
+            "y": 64
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sheila's Alp|spyro3_key_sheilasalp"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sheila's Alp: Nan",
+        "sections": [
+          {
+            "name": "Nan",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SheilasAlp",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sheila's Alp: Jenny",
+        "sections": [
+          {
+            "name": "Jenny",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SheilasAlp",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sheila's Alp: Ruby",
+        "sections": [
+          {
+            "name": "Ruby",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SheilasAlp",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mushroom Speedway",
+    "short_name": "Mushroom Speedway",
+    "children": [
+      {
+        "name": "Spyro 3: Mushroom Speedway: Sabina",
+        "sections": [
+          {
+            "name": "Sabina",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MushroomSpeedway",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Mushroom Speedway: John",
+        "sections": [
+          {
+            "name": "John",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MushroomSpeedway",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Mushroom Speedway: Tater",
+        "sections": [
+          {
+            "name": "Tater",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MushroomSpeedway",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Buzz's Dungeon",
+    "short_name": "Buzz's Dungeon",
+    "children": [
+      {
+        "name": "Spyro 3: Buzz's Dungeon: Buzz Defeated",
+        "sections": [
+          {
+            "name": "Buzz Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BuzzsDungeon",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crawdad Farm",
+    "short_name": "Crawdad Farm",
+    "children": [
+      {
+        "name": "Spyro 3: Crawdad Farm: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Crawdad Farm|spyro3_key_crawdadfarm"
+        ]
+      },
+      {
+        "name": "Spyro 3: Crawdad Farm: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Crawdad Farm|spyro3_key_crawdadfarm"
+        ]
+      },
+      {
+        "name": "Spyro 3: Crawdad Farm: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Crawdad Farm|spyro3_key_crawdadfarm"
+        ]
+      },
+      {
+        "name": "Spyro 3: Crawdad Farm: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Crawdad Farm|spyro3_key_crawdadfarm"
+        ]
+      },
+      {
+        "name": "Spyro 3: Crawdad Farm: Nora",
+        "sections": [
+          {
+            "name": "Nora",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CrawdadFarm",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Crawdad Farm: Sparx Gem Collect Range (Power)",
+        "sections": [
+          {
+            "name": "Sparx Gem Collect Range (Power)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CrawdadFarm",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Midday Gardens",
+    "short_name": "Midday Gardens",
+    "children": [
+      {
+        "name": "Spyro 3: Midday Gardens: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Midday Gardens: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Midday Gardens: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Midday Gardens: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 98
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Midday Gardens: Trixie",
+        "sections": [
+          {
+            "name": "Trixie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MiddayGardens",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Midday Gardens: Dave",
+        "sections": [
+          {
+            "name": "Dave",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MiddayGardens",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Midday Gardens: Mingus",
+        "sections": [
+          {
+            "name": "Mingus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MiddayGardens",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Midday Gardens: Modesty",
+        "sections": [
+          {
+            "name": "Modesty",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MiddayGardens",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Midday Gardens: Matt",
+        "sections": [
+          {
+            "name": "Matt",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MiddayGardens",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Icy Peak",
+    "short_name": "Icy Peak",
+    "children": [
+      {
+        "name": "Spyro 3: Icy Peak: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 302,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Icy Peak|spyro3_key_icypeak"
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 336,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Icy Peak|spyro3_key_icypeak"
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 370,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Icy Peak|spyro3_key_icypeak"
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 404,
+            "y": 98
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Icy Peak|spyro3_key_icypeak"
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: Chet",
+        "sections": [
+          {
+            "name": "Chet",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_IcyPeak",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: Maynard",
+        "sections": [
+          {
+            "name": "Maynard",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_IcyPeak",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: Reez",
+        "sections": [
+          {
+            "name": "Reez",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_IcyPeak",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: Cerny",
+        "sections": [
+          {
+            "name": "Cerny",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_IcyPeak",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: Betty",
+        "sections": [
+          {
+            "name": "Betty",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_IcyPeak",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: Scout",
+        "sections": [
+          {
+            "name": "Scout",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_IcyPeak",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Icy Peak: Glide to pedestal (Skill Point)",
+        "sections": [
+          {
+            "name": "Glide to pedestal (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_IcyPeak",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Enchanted Towers",
+    "short_name": "Enchanted Towers",
+    "children": [
+      {
+        "name": "Spyro 3: Enchanted Towers: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Enchanted Towers|spyro3_key_enchantedtowers"
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Enchanted Towers|spyro3_key_enchantedtowers"
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Enchanted Towers|spyro3_key_enchantedtowers"
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Enchanted Towers|spyro3_key_enchantedtowers"
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: Gladys",
+        "sections": [
+          {
+            "name": "Gladys",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EnchantedTowers",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: Ralph",
+        "sections": [
+          {
+            "name": "Ralph",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EnchantedTowers",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: Peanut",
+        "sections": [
+          {
+            "name": "Peanut",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EnchantedTowers",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: Caroline",
+        "sections": [
+          {
+            "name": "Caroline",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EnchantedTowers",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: Alex",
+        "sections": [
+          {
+            "name": "Alex",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EnchantedTowers",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: Lys",
+        "sections": [
+          {
+            "name": "Lys",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EnchantedTowers",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Enchanted Towers: Skateboard course record II (Skill Point)",
+        "sections": [
+          {
+            "name": "Skateboard course record II (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EnchantedTowers",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spooky Swamp",
+    "short_name": "Spooky Swamp",
+    "children": [
+      {
+        "name": "Spyro 3: Spooky Swamp: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Spooky Swamp|spyro3_key_spookyswamp"
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Spooky Swamp|spyro3_key_spookyswamp"
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Spooky Swamp|spyro3_key_spookyswamp"
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Spooky Swamp|spyro3_key_spookyswamp"
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: Michael",
+        "sections": [
+          {
+            "name": "Michael",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SpookySwamp",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: Thelonios",
+        "sections": [
+          {
+            "name": "Thelonios",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SpookySwamp",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: Frank",
+        "sections": [
+          {
+            "name": "Frank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SpookySwamp",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: Peggy",
+        "sections": [
+          {
+            "name": "Peggy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SpookySwamp",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: Michele",
+        "sections": [
+          {
+            "name": "Michele",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SpookySwamp",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: Herbi",
+        "sections": [
+          {
+            "name": "Herbi",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SpookySwamp",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Spooky Swamp: Destroy all piranha signs (Skill Point)",
+        "sections": [
+          {
+            "name": "Destroy all piranha signs (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SpookySwamp",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bamboo Terrace",
+    "short_name": "Bamboo Terrace",
+    "children": [
+      {
+        "name": "Spyro 3: Bamboo Terrace: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 302,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bamboo Terrace|spyro3_key_bambooterrace"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bamboo Terrace: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 336,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bamboo Terrace|spyro3_key_bambooterrace"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bamboo Terrace: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 370,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bamboo Terrace|spyro3_key_bambooterrace"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bamboo Terrace: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 404,
+            "y": 132
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bamboo Terrace|spyro3_key_bambooterrace"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bamboo Terrace: Dwight",
+        "sections": [
+          {
+            "name": "Dwight",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BambooTerrace",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Bamboo Terrace: Madison",
+        "sections": [
+          {
+            "name": "Madison",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BambooTerrace",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Bamboo Terrace: Tom",
+        "sections": [
+          {
+            "name": "Tom",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BambooTerrace",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Bamboo Terrace: Pee-wee",
+        "sections": [
+          {
+            "name": "Pee-wee",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BambooTerrace",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Bamboo Terrace: Rusty",
+        "sections": [
+          {
+            "name": "Rusty",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BambooTerrace",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Bamboo Terrace: Brubeck",
+        "sections": [
+          {
+            "name": "Brubeck",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BambooTerrace",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sgt. Byrd Base",
+    "short_name": "Sgt. Byrd Base",
+    "children": [
+      {
+        "name": "Spyro 3: Sgt. Byrd Base: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sgt. Byrd Base|spyro3_key_sgtbyrdbase"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sgt. Byrd Base: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sgt. Byrd Base|spyro3_key_sgtbyrdbase"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sgt. Byrd Base: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sgt. Byrd Base|spyro3_key_sgtbyrdbase"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sgt. Byrd Base: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Sgt. Byrd Base|spyro3_key_sgtbyrdbase"
+        ]
+      },
+      {
+        "name": "Spyro 3: Sgt. Byrd Base: Sigfried",
+        "sections": [
+          {
+            "name": "Sigfried",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SgtByrdBase",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sgt. Byrd Base: RyanLee",
+        "sections": [
+          {
+            "name": "RyanLee",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SgtByrdBase",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sgt. Byrd Base: Roy",
+        "sections": [
+          {
+            "name": "Roy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SgtByrdBase",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Sgt. Byrd Base: Bomb the gophers (Skill Point)",
+        "sections": [
+          {
+            "name": "Bomb the gophers (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SgtByrdBase",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Country Speedway",
+    "short_name": "Country Speedway",
+    "children": [
+      {
+        "name": "Spyro 3: Country Speedway: Gavin",
+        "sections": [
+          {
+            "name": "Gavin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CountrySpeedway",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Country Speedway: Shemp",
+        "sections": [
+          {
+            "name": "Shemp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CountrySpeedway",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Country Speedway: Roberto",
+        "sections": [
+          {
+            "name": "Roberto",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CountrySpeedway",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spike's Arena",
+    "short_name": "Spike's Arena",
+    "children": [
+      {
+        "name": "Spyro 3: Spike's Arena: Spike Defeated",
+        "sections": [
+          {
+            "name": "Spike Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SpikesArena",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spider Town",
+    "short_name": "Spider Town",
+    "children": [
+      {
+        "name": "Spyro 3: Spider Town: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Spider Town|spyro3_key_spidertown"
+        ]
+      },
+      {
+        "name": "Spyro 3: Spider Town: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Spider Town|spyro3_key_spidertown"
+        ]
+      },
+      {
+        "name": "Spyro 3: Spider Town: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Spider Town|spyro3_key_spidertown"
+        ]
+      },
+      {
+        "name": "Spyro 3: Spider Town: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 166
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Spider Town|spyro3_key_spidertown"
+        ]
+      },
+      {
+        "name": "Spyro 3: Spider Town: Tootie",
+        "sections": [
+          {
+            "name": "Tootie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SpiderTown",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Evening Lake",
+    "short_name": "Evening Lake",
+    "children": [
+      {
+        "name": "Spyro 3: Evening Lake: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 302,
+            "y": 166
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Evening Lake: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 336,
+            "y": 166
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Evening Lake: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 370,
+            "y": 166
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Evening Lake: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 404,
+            "y": 166
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Evening Lake: Hannah",
+        "sections": [
+          {
+            "name": "Hannah",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EveningLake",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Evening Lake: Stuart",
+        "sections": [
+          {
+            "name": "Stuart",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EveningLake",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Evening Lake: Ted",
+        "sections": [
+          {
+            "name": "Ted",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EveningLake",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Evening Lake: Stooby",
+        "sections": [
+          {
+            "name": "Stooby",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EveningLake",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Evening Lake: Jonah",
+        "sections": [
+          {
+            "name": "Jonah",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_EveningLake",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lost Fleet",
+    "short_name": "Lost Fleet",
+    "children": [
+      {
+        "name": "Spyro 3: Lost Fleet: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Lost Fleet|spyro3_key_lostfleet"
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Lost Fleet|spyro3_key_lostfleet"
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Lost Fleet|spyro3_key_lostfleet"
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Lost Fleet|spyro3_key_lostfleet"
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: Craig",
+        "sections": [
+          {
+            "name": "Craig",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_LostFleet",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: Chad",
+        "sections": [
+          {
+            "name": "Chad",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_LostFleet",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: Ethel",
+        "sections": [
+          {
+            "name": "Ethel",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_LostFleet",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: Dolores",
+        "sections": [
+          {
+            "name": "Dolores",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_LostFleet",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: Oliver",
+        "sections": [
+          {
+            "name": "Oliver",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_LostFleet",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: Aiden",
+        "sections": [
+          {
+            "name": "Aiden",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_LostFleet",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Lost Fleet: Skateboard record time (Skill Point)",
+        "sections": [
+          {
+            "name": "Skateboard record time (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_LostFleet",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frozen Altars",
+    "short_name": "Frozen Altars",
+    "children": [
+      {
+        "name": "Spyro 3: Frozen Altars: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Frozen Altars|spyro3_key_frozenaltars"
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Frozen Altars|spyro3_key_frozenaltars"
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Frozen Altars|spyro3_key_frozenaltars"
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Frozen Altars|spyro3_key_frozenaltars"
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: Cecil",
+        "sections": [
+          {
+            "name": "Cecil",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FrozenAltars",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: Jasper",
+        "sections": [
+          {
+            "name": "Jasper",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FrozenAltars",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: Jana",
+        "sections": [
+          {
+            "name": "Jana",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FrozenAltars",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: Aly",
+        "sections": [
+          {
+            "name": "Aly",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FrozenAltars",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: Ricco",
+        "sections": [
+          {
+            "name": "Ricco",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FrozenAltars",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: Baah",
+        "sections": [
+          {
+            "name": "Baah",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FrozenAltars",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Frozen Altars: Beat yeti in two rounds (Skill Point)",
+        "sections": [
+          {
+            "name": "Beat yeti in two rounds (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FrozenAltars",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fireworks Factory",
+    "short_name": "Fireworks Factory",
+    "children": [
+      {
+        "name": "Spyro 3: Fireworks Factory: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 302,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Fireworks Factory|spyro3_key_fireworksfactory"
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 336,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Fireworks Factory|spyro3_key_fireworksfactory"
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 370,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Fireworks Factory|spyro3_key_fireworksfactory"
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 404,
+            "y": 200
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Fireworks Factory|spyro3_key_fireworksfactory"
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: Grady",
+        "sections": [
+          {
+            "name": "Grady",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FireworksFactory",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: Noodles",
+        "sections": [
+          {
+            "name": "Noodles",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FireworksFactory",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: Sam",
+        "sections": [
+          {
+            "name": "Sam",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FireworksFactory",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: Evan",
+        "sections": [
+          {
+            "name": "Evan",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FireworksFactory",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: Patty",
+        "sections": [
+          {
+            "name": "Patty",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FireworksFactory",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: Donovan",
+        "sections": [
+          {
+            "name": "Donovan",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FireworksFactory",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Fireworks Factory: Find Agent 9's powerup (Skill Point)",
+        "sections": [
+          {
+            "name": "Find Agent 9's powerup (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_FireworksFactory",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Charmed Ridge",
+    "short_name": "Charmed Ridge",
+    "children": [
+      {
+        "name": "Spyro 3: Charmed Ridge: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Charmed Ridge|spyro3_key_charmedridge"
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Charmed Ridge|spyro3_key_charmedridge"
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Charmed Ridge|spyro3_key_charmedridge"
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Charmed Ridge|spyro3_key_charmedridge"
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: Benjamin",
+        "sections": [
+          {
+            "name": "Benjamin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CharmedRidge",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: Moe",
+        "sections": [
+          {
+            "name": "Moe",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CharmedRidge",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: Sakura",
+        "sections": [
+          {
+            "name": "Sakura",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CharmedRidge",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: Abby",
+        "sections": [
+          {
+            "name": "Abby",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CharmedRidge",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: Shelley",
+        "sections": [
+          {
+            "name": "Shelley",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CharmedRidge",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: Chuck",
+        "sections": [
+          {
+            "name": "Chuck",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CharmedRidge",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: The Impossible Tower (Skill Point)",
+        "sections": [
+          {
+            "name": "The Impossible Tower (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CharmedRidge",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Charmed Ridge: Shoot the temple windows (Skill Point)",
+        "sections": [
+          {
+            "name": "Shoot the temple windows (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CharmedRidge",
+            "x": 200,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bentley's Outpost",
+    "short_name": "Bentley's Outpost",
+    "children": [
+      {
+        "name": "Spyro 3: Bentley's Outpost: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bentley's Outpost|spyro3_key_bentleysoutpost"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bentley's Outpost: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bentley's Outpost|spyro3_key_bentleysoutpost"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bentley's Outpost: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bentley's Outpost|spyro3_key_bentleysoutpost"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bentley's Outpost: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bentley's Outpost|spyro3_key_bentleysoutpost"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bentley's Outpost: Brian",
+        "sections": [
+          {
+            "name": "Brian",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BentleysOutpost",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Bentley's Outpost: Charlie",
+        "sections": [
+          {
+            "name": "Charlie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BentleysOutpost",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Bentley's Outpost: Eric",
+        "sections": [
+          {
+            "name": "Eric",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BentleysOutpost",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Bentley's Outpost: Push box off the cliff (Skill Point)",
+        "sections": [
+          {
+            "name": "Push box off the cliff (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BentleysOutpost",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Honey Speedway",
+    "short_name": "Honey Speedway",
+    "children": [
+      {
+        "name": "Spyro 3: Honey Speedway: Chris",
+        "sections": [
+          {
+            "name": "Chris",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HoneySpeedway",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Honey Speedway: Henri",
+        "sections": [
+          {
+            "name": "Henri",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HoneySpeedway",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Honey Speedway: Nori",
+        "sections": [
+          {
+            "name": "Nori",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HoneySpeedway",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Scorch's Pit",
+    "short_name": "Scorch's Pit",
+    "children": [
+      {
+        "name": "Spyro 3: Scorch's Pit: Scorch Defeated",
+        "sections": [
+          {
+            "name": "Scorch Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_ScorchsPit",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Starfish Reef",
+    "short_name": "Starfish Reef",
+    "children": [
+      {
+        "name": "Spyro 3: Starfish Reef: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 302,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Starfish Reef|spyro3_key_starfishreef"
+        ]
+      },
+      {
+        "name": "Spyro 3: Starfish Reef: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 336,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Starfish Reef|spyro3_key_starfishreef"
+        ]
+      },
+      {
+        "name": "Spyro 3: Starfish Reef: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 370,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Starfish Reef|spyro3_key_starfishreef"
+        ]
+      },
+      {
+        "name": "Spyro 3: Starfish Reef: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 404,
+            "y": 234
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Starfish Reef|spyro3_key_starfishreef"
+        ]
+      },
+      {
+        "name": "Spyro 3: Starfish Reef: Ahnashawn",
+        "sections": [
+          {
+            "name": "Ahnashawn",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_StarfishReef",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Starfish Reef: Sparx Extra Hit Point (Power)",
+        "sections": [
+          {
+            "name": "Sparx Extra Hit Point (Power)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_StarfishReef",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Midnight Mountain",
+    "short_name": "Midnight Mountain",
+    "children": [
+      {
+        "name": "Spyro 3: Midnight Mountain: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 268
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Midnight Mountain: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 268
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Midnight Mountain: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 268
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Midnight Mountain: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 268
+          }
+        ],
+        "access_rules": null
+      },
+      {
+        "name": "Spyro 3: Midnight Mountain: Billy",
+        "sections": [
+          {
+            "name": "Billy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MidnightMountain",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Midnight Mountain: Saki",
+        "sections": [
+          {
+            "name": "Saki",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MidnightMountain",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Midnight Mountain: Maiken",
+        "sections": [
+          {
+            "name": "Maiken",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MidnightMountain",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Midnight Mountain: Buddy",
+        "sections": [
+          {
+            "name": "Buddy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MidnightMountain",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Midnight Mountain: Evie",
+        "sections": [
+          {
+            "name": "Evie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MidnightMountain",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Midnight Mountain: Al",
+        "sections": [
+          {
+            "name": "Al",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_MidnightMountain",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crystal Islands",
+    "short_name": "Crystal Islands",
+    "children": [
+      {
+        "name": "Spyro 3: Crystal Islands: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Crystal Islands|spyro3_key_crystalislands"
+        ]
+      },
+      {
+        "name": "Spyro 3: Crystal Islands: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Crystal Islands|spyro3_key_crystalislands"
+        ]
+      },
+      {
+        "name": "Spyro 3: Crystal Islands: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Crystal Islands|spyro3_key_crystalislands"
+        ]
+      },
+      {
+        "name": "Spyro 3: Crystal Islands: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Crystal Islands|spyro3_key_crystalislands"
+        ]
+      },
+      {
+        "name": "Spyro 3: Crystal Islands: Manie",
+        "sections": [
+          {
+            "name": "Manie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CrystalIslands",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Crystal Islands: Lloyd",
+        "sections": [
+          {
+            "name": "Lloyd",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CrystalIslands",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Crystal Islands: Max",
+        "sections": [
+          {
+            "name": "Max",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CrystalIslands",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Crystal Islands: Grace",
+        "sections": [
+          {
+            "name": "Grace",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CrystalIslands",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Crystal Islands: Elloise",
+        "sections": [
+          {
+            "name": "Elloise",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CrystalIslands",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Crystal Islands: Hank",
+        "sections": [
+          {
+            "name": "Hank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_CrystalIslands",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Desert Ruins",
+    "short_name": "Desert Ruins",
+    "children": [
+      {
+        "name": "Spyro 3: Desert Ruins: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 302,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Desert Ruins|spyro3_key_desertruins"
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 336,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Desert Ruins|spyro3_key_desertruins"
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 370,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Desert Ruins|spyro3_key_desertruins"
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 404,
+            "y": 268
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Desert Ruins|spyro3_key_desertruins"
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: Andy",
+        "sections": [
+          {
+            "name": "Andy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DesertRuins",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: Marty",
+        "sections": [
+          {
+            "name": "Marty",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DesertRuins",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: Nelly",
+        "sections": [
+          {
+            "name": "Nelly",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DesertRuins",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: Lester",
+        "sections": [
+          {
+            "name": "Lester",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DesertRuins",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: Pete",
+        "sections": [
+          {
+            "name": "Pete",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DesertRuins",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: Sadie",
+        "sections": [
+          {
+            "name": "Sadie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DesertRuins",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Desert Ruins: Destroy all seaweed (Skill Point)",
+        "sections": [
+          {
+            "name": "Destroy all seaweed (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DesertRuins",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Haunted Tomb",
+    "short_name": "Haunted Tomb",
+    "children": [
+      {
+        "name": "Spyro 3: Haunted Tomb: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Haunted Tomb|spyro3_key_hauntedtomb"
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Haunted Tomb|spyro3_key_hauntedtomb"
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Haunted Tomb|spyro3_key_hauntedtomb"
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Haunted Tomb|spyro3_key_hauntedtomb"
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: Christine",
+        "sections": [
+          {
+            "name": "Christine",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HauntedTomb",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: Will",
+        "sections": [
+          {
+            "name": "Will",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HauntedTomb",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: Malcolm",
+        "sections": [
+          {
+            "name": "Malcolm",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HauntedTomb",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: Roxy",
+        "sections": [
+          {
+            "name": "Roxy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HauntedTomb",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: MJ",
+        "sections": [
+          {
+            "name": "MJ",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HauntedTomb",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: TJ",
+        "sections": [
+          {
+            "name": "TJ",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HauntedTomb",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Haunted Tomb: Swim into the dark hole (Skill Point)",
+        "sections": [
+          {
+            "name": "Swim into the dark hole (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HauntedTomb",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dino Mines",
+    "short_name": "Dino Mines",
+    "children": [
+      {
+        "name": "Spyro 3: Dino Mines: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Dino Mines|spyro3_key_dinomines"
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Dino Mines|spyro3_key_dinomines"
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Dino Mines|spyro3_key_dinomines"
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Dino Mines|spyro3_key_dinomines"
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: Dan",
+        "sections": [
+          {
+            "name": "Dan",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DinoMines",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: Romey",
+        "sections": [
+          {
+            "name": "Romey",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DinoMines",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: Kiki",
+        "sections": [
+          {
+            "name": "Kiki",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DinoMines",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: Elliot",
+        "sections": [
+          {
+            "name": "Elliot",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DinoMines",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: Sharon",
+        "sections": [
+          {
+            "name": "Sharon",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DinoMines",
+            "x": 50,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: Sergio",
+        "sections": [
+          {
+            "name": "Sergio",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DinoMines",
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: Hit all the seahorses (Skill Point)",
+        "sections": [
+          {
+            "name": "Hit all the seahorses (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DinoMines",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Dino Mines: Hit the secret dino (Skill Point)",
+        "sections": [
+          {
+            "name": "Hit the secret dino (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_DinoMines",
+            "x": 200,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agent 9's Lab",
+    "short_name": "Agent 9's Lab",
+    "children": [
+      {
+        "name": "Spyro 3: Agent 9's Lab: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 302,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Agent 9's Lab|spyro3_key_agent9slab"
+        ]
+      },
+      {
+        "name": "Spyro 3: Agent 9's Lab: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 336,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Agent 9's Lab|spyro3_key_agent9slab"
+        ]
+      },
+      {
+        "name": "Spyro 3: Agent 9's Lab: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 370,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Agent 9's Lab|spyro3_key_agent9slab"
+        ]
+      },
+      {
+        "name": "Spyro 3: Agent 9's Lab: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 404,
+            "y": 302
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Agent 9's Lab|spyro3_key_agent9slab"
+        ]
+      },
+      {
+        "name": "Spyro 3: Agent 9's Lab: Beulah",
+        "sections": [
+          {
+            "name": "Beulah",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Agent9sLab",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Agent 9's Lab: Tony",
+        "sections": [
+          {
+            "name": "Tony",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Agent9sLab",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Agent 9's Lab: Rowan",
+        "sections": [
+          {
+            "name": "Rowan",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Agent9sLab",
+            "x": 350,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Agent 9's Lab: Blow up all palm trees (Skill Point)",
+        "sections": [
+          {
+            "name": "Blow up all palm trees (Skill Point)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Agent9sLab",
+            "x": 400,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Harbor Speedway",
+    "short_name": "Harbor Speedway",
+    "children": [
+      {
+        "name": "Spyro 3: Harbor Speedway: Kobe",
+        "sections": [
+          {
+            "name": "Kobe",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HarborSpeedway",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Harbor Speedway: Sara",
+        "sections": [
+          {
+            "name": "Sara",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HarborSpeedway",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Harbor Speedway: Jessie",
+        "sections": [
+          {
+            "name": "Jessie",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_HarborSpeedway",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sorceress Lair",
+    "short_name": "Sorceress Lair",
+    "children": [
+      {
+        "name": "Spyro 3: Sorceress Lair: Sorceress Defeated",
+        "sections": [
+          {
+            "name": "Sorceress Defeated",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SorceressLair",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bugbot Factory",
+    "short_name": "Bugbot Factory",
+    "children": [
+      {
+        "name": "Spyro 3: Bugbot Factory: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 30,
+            "y": 336
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bugbot Factory|spyro3_key_bugbotfactory"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bugbot Factory: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 64,
+            "y": 336
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bugbot Factory|spyro3_key_bugbotfactory"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bugbot Factory: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 98,
+            "y": 336
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bugbot Factory|spyro3_key_bugbotfactory"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bugbot Factory: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 132,
+            "y": 336
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Bugbot Factory|spyro3_key_bugbotfactory"
+        ]
+      },
+      {
+        "name": "Spyro 3: Bugbot Factory: Anabelle",
+        "sections": [
+          {
+            "name": "Anabelle",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BugbotFactory",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Spyro 3: Bugbot Factory: Sparx Chest Breaking (Power)",
+        "sections": [
+          {
+            "name": "Sparx Chest Breaking (Power)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_BugbotFactory",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Super Bonus Round",
+    "short_name": "Super Bonus Round",
+    "children": [
+      {
+        "name": "Spyro 3: Super Bonus Round: 25% Gems",
+        "sections": [
+          {
+            "name": "25% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 166,
+            "y": 336
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Super Bonus Round|spyro3_key_superbonusround"
+        ]
+      },
+      {
+        "name": "Spyro 3: Super Bonus Round: 50% Gems",
+        "sections": [
+          {
+            "name": "50% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 200,
+            "y": 336
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Super Bonus Round|spyro3_key_superbonusround"
+        ]
+      },
+      {
+        "name": "Spyro 3: Super Bonus Round: 75% Gems",
+        "sections": [
+          {
+            "name": "75% Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 234,
+            "y": 336
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Super Bonus Round|spyro3_key_superbonusround"
+        ]
+      },
+      {
+        "name": "Spyro 3: Super Bonus Round: All Gems",
+        "sections": [
+          {
+            "name": "All Gems",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_Gems",
+            "x": 268,
+            "y": 336
+          }
+        ],
+        "access_rules": [
+          "$srt_gem_gate|spyro3|Super Bonus Round|spyro3_key_superbonusround"
+        ]
+      },
+      {
+        "name": "Spyro 3: Super Bonus Round: YinYang",
+        "sections": [
+          {
+            "name": "YinYang",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spyro3_SuperBonusRound",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  }
+]

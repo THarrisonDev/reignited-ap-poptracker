@@ -1,0 +1,1408 @@
+{
+  "tracker_default": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "layout",
+        "key": "header_items",
+        "dock": "top"
+      },
+      {
+        "type": "layout",
+        "key": "game_tabs"
+      }
+    ]
+  },
+  "header_items": {
+    "type": "itemgrid",
+    "h_alignment": "left",
+    "rows": [
+      [
+        "spyro1_played",
+        "spyro2_played",
+        "spyro3_played"
+      ],
+      [
+        "dragons",
+        "orbs",
+        "eggs"
+      ]
+    ]
+  },
+  "game_tabs": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Spyro 1",
+        "content": {
+          "type": "layout",
+          "key": "spyro1_tabs"
+        }
+      },
+      {
+        "title": "Spyro 2",
+        "content": {
+          "type": "layout",
+          "key": "spyro2_tabs"
+        }
+      },
+      {
+        "title": "Spyro 3",
+        "content": {
+          "type": "layout",
+          "key": "spyro3_tabs"
+        }
+      }
+    ]
+  },
+  "tracker_broadcast": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "layout",
+        "key": "header_items",
+        "dock": "top"
+      },
+      {
+        "type": "layout",
+        "key": "game_tabs"
+      }
+    ]
+  },
+  "spyro1_tabs": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "layout",
+        "key": "spyro1_sidebar",
+        "dock": "left"
+      },
+      {
+        "type": "tabbed",
+        "tabs": [
+          {
+            "title": "Overview",
+            "content": {
+              "type": "itemgrid",
+              "h_alignment": "left",
+              "rows": [
+                [
+                  "dragons",
+                  "spyro1_eggs",
+                  "s1_keys"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Gems",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_Gems"
+              ]
+            }
+          },
+          {
+            "title": "Artisans",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_Artisans"
+              ]
+            }
+          },
+          {
+            "title": "Town Square",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_TownSquare"
+              ]
+            }
+          },
+          {
+            "title": "Stone Hill",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_StoneHill"
+              ]
+            }
+          },
+          {
+            "title": "Dark Hollow",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_DarkHollow"
+              ]
+            }
+          },
+          {
+            "title": "Toasty",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_Toasty"
+              ]
+            }
+          },
+          {
+            "title": "Sunny Flight",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_SunnyFlight"
+              ]
+            }
+          },
+          {
+            "title": "Peace Keepers",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_PeaceKeepers"
+              ]
+            }
+          },
+          {
+            "title": "Dry Canyon",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_DryCanyon"
+              ]
+            }
+          },
+          {
+            "title": "Cliff Town",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_CliffTown"
+              ]
+            }
+          },
+          {
+            "title": "Ice Cavern",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_IceCavern"
+              ]
+            }
+          },
+          {
+            "title": "Doctor Shemp",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_DoctorShemp"
+              ]
+            }
+          },
+          {
+            "title": "Night Flight",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_NightFlight"
+              ]
+            }
+          },
+          {
+            "title": "Magic Crafters",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_MagicCrafters"
+              ]
+            }
+          },
+          {
+            "title": "Alpine Ridge",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_AlpineRidge"
+              ]
+            }
+          },
+          {
+            "title": "High Caves",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_HighCaves"
+              ]
+            }
+          },
+          {
+            "title": "Wizard Peak",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_WizardPeak"
+              ]
+            }
+          },
+          {
+            "title": "Blowhard",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_Blowhard"
+              ]
+            }
+          },
+          {
+            "title": "Crystal Flight",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_CrystalFlight"
+              ]
+            }
+          },
+          {
+            "title": "Beast Makers",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_BeastMakers"
+              ]
+            }
+          },
+          {
+            "title": "Terrace Village",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_TerraceVillage"
+              ]
+            }
+          },
+          {
+            "title": "Misty Bog",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_MistyBog"
+              ]
+            }
+          },
+          {
+            "title": "Tree Tops",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_TreeTops"
+              ]
+            }
+          },
+          {
+            "title": "Metalhead",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_Metalhead"
+              ]
+            }
+          },
+          {
+            "title": "Wild Flight",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_WildFlight"
+              ]
+            }
+          },
+          {
+            "title": "Dream Weavers",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_DreamWeavers"
+              ]
+            }
+          },
+          {
+            "title": "Dark Passage",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_DarkPassage"
+              ]
+            }
+          },
+          {
+            "title": "Lofty Castle",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_LoftyCastle"
+              ]
+            }
+          },
+          {
+            "title": "Haunted Towers",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_HauntedTowers"
+              ]
+            }
+          },
+          {
+            "title": "Jacques",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_Jacques"
+              ]
+            }
+          },
+          {
+            "title": "Icy Flight",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_IcyFlight"
+              ]
+            }
+          },
+          {
+            "title": "Gnorc Gnexus",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_GnorcGnexus"
+              ]
+            }
+          },
+          {
+            "title": "Gnorc Cove",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_GnorcCove"
+              ]
+            }
+          },
+          {
+            "title": "Twilight Harbor",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_TwilightHarbor"
+              ]
+            }
+          },
+          {
+            "title": "Gnasty Gnorc",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_GnastyGnorc"
+              ]
+            }
+          },
+          {
+            "title": "Gnasty's Loot",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro1_GnastysLoot"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "spyro1_sidebar": {
+    "type": "array",
+    "orientation": "vertical",
+    "content": [
+      {
+        "type": "text",
+        "text": "Artisans"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro1_key_townsquare",
+            "spyro1_key_stonehill",
+            "spyro1_key_darkhollow",
+            "spyro1_key_toasty",
+            "spyro1_key_sunnyflight"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Peace Keepers"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro1_key_drycanyon",
+            "spyro1_key_clifftown",
+            "spyro1_key_icecavern",
+            "spyro1_key_doctorshemp",
+            "spyro1_key_nightflight"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Magic Crafters"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro1_key_alpineridge",
+            "spyro1_key_highcaves",
+            "spyro1_key_wizardpeak",
+            "spyro1_key_blowhard",
+            "spyro1_key_crystalflight"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Beast Makers"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro1_key_terracevillage",
+            "spyro1_key_mistybog",
+            "spyro1_key_treetops",
+            "spyro1_key_metalhead",
+            "spyro1_key_wildflight"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Dream Weavers"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro1_key_darkpassage",
+            "spyro1_key_loftycastle",
+            "spyro1_key_hauntedtowers",
+            "spyro1_key_jacques",
+            "spyro1_key_icyflight"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Gnorc Gnexus"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro1_key_gnorccove",
+            "spyro1_key_twilightharbor",
+            "spyro1_key_gnastygnorc"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Bonus"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro1_key_gnastysloot"
+          ]
+        ]
+      }
+    ]
+  },
+  "spyro2_tabs": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "layout",
+        "key": "spyro2_sidebar",
+        "dock": "left"
+      },
+      {
+        "type": "tabbed",
+        "tabs": [
+          {
+            "title": "Overview",
+            "content": {
+              "type": "itemgrid",
+              "h_alignment": "left",
+              "rows": [
+                [
+                  "orbs",
+                  "talismans",
+                  "s2_keys",
+                  "s2_swim",
+                  "s2_climb",
+                  "s2_headbash"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Gems",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_Gems"
+              ]
+            }
+          },
+          {
+            "title": "Summer Forest",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_SummerForest"
+              ]
+            }
+          },
+          {
+            "title": "Glimmer",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_Glimmer"
+              ]
+            }
+          },
+          {
+            "title": "Idol Springs",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_IdolSprings"
+              ]
+            }
+          },
+          {
+            "title": "Colossus",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_Colossus"
+              ]
+            }
+          },
+          {
+            "title": "Hurricos",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_Hurricos"
+              ]
+            }
+          },
+          {
+            "title": "Sunny Beach",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_SunnyBeach"
+              ]
+            }
+          },
+          {
+            "title": "Aquaria Towers",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_AquariaTowers"
+              ]
+            }
+          },
+          {
+            "title": "Crush's Dungeon",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_CrushsDungeon"
+              ]
+            }
+          },
+          {
+            "title": "Ocean Speedway",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_OceanSpeedway"
+              ]
+            }
+          },
+          {
+            "title": "Autumn Plains",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_AutumnPlains"
+              ]
+            }
+          },
+          {
+            "title": "Crystal Glacier",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_CrystalGlacier"
+              ]
+            }
+          },
+          {
+            "title": "Skelos Badlands",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_SkelosBadlands"
+              ]
+            }
+          },
+          {
+            "title": "Zephyr",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_Zephyr"
+              ]
+            }
+          },
+          {
+            "title": "Breeze Harbor",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_BreezeHarbor"
+              ]
+            }
+          },
+          {
+            "title": "Scorch",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_Scorch"
+              ]
+            }
+          },
+          {
+            "title": "Fracture Hills",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_FractureHills"
+              ]
+            }
+          },
+          {
+            "title": "Magma Cone",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_MagmaCone"
+              ]
+            }
+          },
+          {
+            "title": "Shady Oasis",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_ShadyOasis"
+              ]
+            }
+          },
+          {
+            "title": "Gulp's Overlook",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_GulpsOverlook"
+              ]
+            }
+          },
+          {
+            "title": "Icy Speedway",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_IcySpeedway"
+              ]
+            }
+          },
+          {
+            "title": "Metro Speedway",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_MetroSpeedway"
+              ]
+            }
+          },
+          {
+            "title": "Winter Tundra",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_WinterTundra"
+              ]
+            }
+          },
+          {
+            "title": "Mystic Marsh",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_MysticMarsh"
+              ]
+            }
+          },
+          {
+            "title": "Cloud Temples",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_CloudTemples"
+              ]
+            }
+          },
+          {
+            "title": "Metropolis",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_Metropolis"
+              ]
+            }
+          },
+          {
+            "title": "Robotica Farms",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_RoboticaFarms"
+              ]
+            }
+          },
+          {
+            "title": "Ripto's Arena",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_RiptosArena"
+              ]
+            }
+          },
+          {
+            "title": "Canyon Speedway",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro2_CanyonSpeedway"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "spyro2_sidebar": {
+    "type": "array",
+    "orientation": "vertical",
+    "content": [
+      {
+        "type": "text",
+        "text": "Summer Forest"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro2_key_glimmer",
+            "spyro2_key_idolsprings",
+            "spyro2_key_colossus",
+            "spyro2_key_hurricos",
+            "spyro2_key_sunnybeach"
+          ],
+          [
+            "spyro2_key_aquariatowers",
+            "spyro2_key_crushsdungeon",
+            "spyro2_key_oceanspeedway"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Autumn Plains"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro2_key_crystalglacier",
+            "spyro2_key_skelosbadlands",
+            "spyro2_key_zephyr",
+            "spyro2_key_breezeharbor",
+            "spyro2_key_scorch"
+          ],
+          [
+            "spyro2_key_fracturehills",
+            "spyro2_key_magmacone",
+            "spyro2_key_shadyoasis",
+            "spyro2_key_gulpsoverlook",
+            "spyro2_key_icyspeedway"
+          ],
+          [
+            "spyro2_key_metrospeedway"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Winter Tundra"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro2_key_mysticmarsh",
+            "spyro2_key_cloudtemples",
+            "spyro2_key_metropolis",
+            "spyro2_key_roboticafarms",
+            "spyro2_key_riptosarena"
+          ],
+          [
+            "spyro2_key_canyonspeedway"
+          ]
+        ]
+      }
+    ]
+  },
+  "spyro3_tabs": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "layout",
+        "key": "spyro3_sidebar",
+        "dock": "left"
+      },
+      {
+        "type": "tabbed",
+        "tabs": [
+          {
+            "title": "Overview",
+            "content": {
+              "type": "itemgrid",
+              "h_alignment": "left",
+              "rows": [
+                [
+                  "eggs",
+                  "s3_keys",
+                  "sparx_gemcollectrange",
+                  "sparx_extrahitpoint",
+                  "sparx_chestbreaking"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Gems",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_Gems"
+              ]
+            }
+          },
+          {
+            "title": "Sunrise Spring",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SunriseSpring"
+              ]
+            }
+          },
+          {
+            "title": "Sunny Villa",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SunnyVilla"
+              ]
+            }
+          },
+          {
+            "title": "Cloud Spires",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_CloudSpires"
+              ]
+            }
+          },
+          {
+            "title": "Molten Crater",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_MoltenCrater"
+              ]
+            }
+          },
+          {
+            "title": "Seashell Shore",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SeashellShore"
+              ]
+            }
+          },
+          {
+            "title": "Sheila's Alp",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SheilasAlp"
+              ]
+            }
+          },
+          {
+            "title": "Mushroom Speedway",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_MushroomSpeedway"
+              ]
+            }
+          },
+          {
+            "title": "Buzz's Dungeon",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_BuzzsDungeon"
+              ]
+            }
+          },
+          {
+            "title": "Crawdad Farm",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_CrawdadFarm"
+              ]
+            }
+          },
+          {
+            "title": "Midday Gardens",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_MiddayGardens"
+              ]
+            }
+          },
+          {
+            "title": "Icy Peak",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_IcyPeak"
+              ]
+            }
+          },
+          {
+            "title": "Enchanted Towers",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_EnchantedTowers"
+              ]
+            }
+          },
+          {
+            "title": "Spooky Swamp",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SpookySwamp"
+              ]
+            }
+          },
+          {
+            "title": "Bamboo Terrace",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_BambooTerrace"
+              ]
+            }
+          },
+          {
+            "title": "Sgt. Byrd Base",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SgtByrdBase"
+              ]
+            }
+          },
+          {
+            "title": "Country Speedway",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_CountrySpeedway"
+              ]
+            }
+          },
+          {
+            "title": "Spike's Arena",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SpikesArena"
+              ]
+            }
+          },
+          {
+            "title": "Spider Town",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SpiderTown"
+              ]
+            }
+          },
+          {
+            "title": "Evening Lake",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_EveningLake"
+              ]
+            }
+          },
+          {
+            "title": "Lost Fleet",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_LostFleet"
+              ]
+            }
+          },
+          {
+            "title": "Frozen Altars",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_FrozenAltars"
+              ]
+            }
+          },
+          {
+            "title": "Fireworks Factory",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_FireworksFactory"
+              ]
+            }
+          },
+          {
+            "title": "Charmed Ridge",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_CharmedRidge"
+              ]
+            }
+          },
+          {
+            "title": "Bentley's Outpost",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_BentleysOutpost"
+              ]
+            }
+          },
+          {
+            "title": "Honey Speedway",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_HoneySpeedway"
+              ]
+            }
+          },
+          {
+            "title": "Scorch's Pit",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_ScorchsPit"
+              ]
+            }
+          },
+          {
+            "title": "Starfish Reef",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_StarfishReef"
+              ]
+            }
+          },
+          {
+            "title": "Midnight Mountain",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_MidnightMountain"
+              ]
+            }
+          },
+          {
+            "title": "Crystal Islands",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_CrystalIslands"
+              ]
+            }
+          },
+          {
+            "title": "Desert Ruins",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_DesertRuins"
+              ]
+            }
+          },
+          {
+            "title": "Haunted Tomb",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_HauntedTomb"
+              ]
+            }
+          },
+          {
+            "title": "Dino Mines",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_DinoMines"
+              ]
+            }
+          },
+          {
+            "title": "Agent 9's Lab",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_Agent9sLab"
+              ]
+            }
+          },
+          {
+            "title": "Harbor Speedway",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_HarborSpeedway"
+              ]
+            }
+          },
+          {
+            "title": "Sorceress Lair",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SorceressLair"
+              ]
+            }
+          },
+          {
+            "title": "Bugbot Factory",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_BugbotFactory"
+              ]
+            }
+          },
+          {
+            "title": "Super Bonus Round",
+            "content": {
+              "type": "map",
+              "maps": [
+                "spyro3_SuperBonusRound"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "spyro3_sidebar": {
+    "type": "array",
+    "orientation": "vertical",
+    "content": [
+      {
+        "type": "text",
+        "text": "Sunrise Spring"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro3_key_sunnyvilla",
+            "spyro3_key_cloudspires",
+            "spyro3_key_moltencrater",
+            "spyro3_key_seashellshore",
+            "spyro3_key_sheilasalp"
+          ],
+          [
+            "spyro3_key_mushroomspeedway",
+            "spyro3_key_buzzsdungeon",
+            "spyro3_key_crawdadfarm"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Midday Gardens"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro3_key_icypeak",
+            "spyro3_key_enchantedtowers",
+            "spyro3_key_spookyswamp",
+            "spyro3_key_bambooterrace",
+            "spyro3_key_sgtbyrdbase"
+          ],
+          [
+            "spyro3_key_countryspeedway",
+            "spyro3_key_spikesarena",
+            "spyro3_key_spidertown"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Evening Lake"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro3_key_lostfleet",
+            "spyro3_key_frozenaltars",
+            "spyro3_key_fireworksfactory",
+            "spyro3_key_charmedridge",
+            "spyro3_key_bentleysoutpost"
+          ],
+          [
+            "spyro3_key_honeyspeedway",
+            "spyro3_key_scorchspit",
+            "spyro3_key_starfishreef"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Midnight Mountain"
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_size": "24,24",
+        "item_margin": "1,1",
+        "rows": [
+          [
+            "spyro3_key_crystalislands",
+            "spyro3_key_desertruins",
+            "spyro3_key_hauntedtomb",
+            "spyro3_key_dinomines",
+            "spyro3_key_agent9slab"
+          ],
+          [
+            "spyro3_key_harborspeedway",
+            "spyro3_key_sorceresslair",
+            "spyro3_key_bugbotfactory",
+            "spyro3_key_superbonusround"
+          ]
+        ]
+      }
+    ]
+  }
+}

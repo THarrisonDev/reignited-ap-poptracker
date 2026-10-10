@@ -1,0 +1,721 @@
+[
+  {
+    "name": "Spyro 1 played",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_played"
+  },
+  {
+    "name": "Spyro 2 played",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_played"
+  },
+  {
+    "name": "Spyro 3 played",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_played"
+  },
+  {
+    "name": "Dragons",
+    "type": "consumable",
+    "img": "images/items.png",
+    "codes": "dragons",
+    "max_quantity": 80
+  },
+  {
+    "name": "Spyro 1 Eggs",
+    "type": "consumable",
+    "img": "images/items.png",
+    "codes": "spyro1_eggs",
+    "max_quantity": 12
+  },
+  {
+    "name": "Orbs",
+    "type": "consumable",
+    "img": "images/items.png",
+    "codes": "orbs",
+    "max_quantity": 64
+  },
+  {
+    "name": "Talismans",
+    "type": "consumable",
+    "img": "images/items.png",
+    "codes": "talismans",
+    "max_quantity": 14
+  },
+  {
+    "name": "Spyro 3 Eggs",
+    "type": "consumable",
+    "img": "images/items.png",
+    "codes": "eggs",
+    "max_quantity": 146
+  },
+  {
+    "name": "Spyro 1 Keys",
+    "type": "consumable",
+    "img": "images/items.png",
+    "codes": "s1_keys",
+    "max_quantity": 29
+  },
+  {
+    "name": "Spyro 2 Keys",
+    "type": "consumable",
+    "img": "images/items.png",
+    "codes": "s2_keys",
+    "max_quantity": 25
+  },
+  {
+    "name": "Spyro 3 Keys",
+    "type": "consumable",
+    "img": "images/items.png",
+    "codes": "s3_keys",
+    "max_quantity": 33
+  },
+  {
+    "name": "Stone Hill",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_stonehill",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Dark Hollow",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_darkhollow",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Town Square",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_townsquare",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Sunny Flight",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_sunnyflight",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Toasty",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_toasty",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Dry Canyon",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_drycanyon",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Cliff Town",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_clifftown",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Ice Cavern",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_icecavern",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Night Flight",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_nightflight",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Doctor Shemp",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_doctorshemp",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Alpine Ridge",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_alpineridge",
+    "ignore_user_input": true
+  },
+  {
+    "name": "High Caves",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_highcaves",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Wizard Peak",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_wizardpeak",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Crystal Flight",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_crystalflight",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Blowhard",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_blowhard",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Terrace Village",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_terracevillage",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Misty Bog",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_mistybog",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Tree Tops",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_treetops",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Wild Flight",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_wildflight",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Metalhead",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_metalhead",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Dark Passage",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_darkpassage",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Lofty Castle",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_loftycastle",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Haunted Towers",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_hauntedtowers",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Icy Flight",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_icyflight",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Jacques",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_jacques",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Gnorc Cove",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_gnorccove",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Twilight Harbor",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_twilightharbor",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Gnasty Gnorc",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_gnastygnorc",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Gnasty's Loot",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro1_key_gnastysloot",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Glimmer",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_glimmer",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Idol Springs",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_idolsprings",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Colossus",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_colossus",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Hurricos",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_hurricos",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Sunny Beach",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_sunnybeach",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Aquaria Towers",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_aquariatowers",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Crush's Dungeon",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_crushsdungeon",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Ocean Speedway",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_oceanspeedway",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Crystal Glacier",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_crystalglacier",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Skelos Badlands",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_skelosbadlands",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Zephyr",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_zephyr",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Breeze Harbor",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_breezeharbor",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Scorch",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_scorch",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Fracture Hills",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_fracturehills",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Magma Cone",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_magmacone",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Shady Oasis",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_shadyoasis",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Gulp's Overlook",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_gulpsoverlook",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Icy Speedway",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_icyspeedway",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Metro Speedway",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_metrospeedway",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Mystic Marsh",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_mysticmarsh",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Cloud Temples",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_cloudtemples",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Metropolis",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_metropolis",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Robotica Farms",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_roboticafarms",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Ripto's Arena",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_riptosarena",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Canyon Speedway",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro2_key_canyonspeedway",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Sunny Villa",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_sunnyvilla",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Cloud Spires",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_cloudspires",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Molten Crater",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_moltencrater",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Seashell Shore",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_seashellshore",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Sheila's Alp",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_sheilasalp",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Mushroom Speedway",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_mushroomspeedway",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Buzz's Dungeon",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_buzzsdungeon",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Crawdad Farm",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_crawdadfarm",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Icy Peak",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_icypeak",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Enchanted Towers",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_enchantedtowers",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Spooky Swamp",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_spookyswamp",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Bamboo Terrace",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_bambooterrace",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Sgt. Byrd Base",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_sgtbyrdbase",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Country Speedway",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_countryspeedway",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Spike's Arena",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_spikesarena",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Spider Town",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_spidertown",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Lost Fleet",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_lostfleet",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Frozen Altars",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_frozenaltars",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Fireworks Factory",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_fireworksfactory",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Charmed Ridge",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_charmedridge",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Bentley's Outpost",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_bentleysoutpost",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Honey Speedway",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_honeyspeedway",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Scorch's Pit",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_scorchspit",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Starfish Reef",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_starfishreef",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Crystal Islands",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_crystalislands",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Desert Ruins",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_desertruins",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Haunted Tomb",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_hauntedtomb",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Dino Mines",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_dinomines",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Agent 9's Lab",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_agent9slab",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Harbor Speedway",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_harborspeedway",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Sorceress Lair",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_sorceresslair",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Bugbot Factory",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_bugbotfactory",
+    "ignore_user_input": true
+  },
+  {
+    "name": "Super Bonus Round",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "spyro3_key_superbonusround",
+    "ignore_user_input": true
+  },
+  {
+    "name": "S2 Swim",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "s2_swim"
+  },
+  {
+    "name": "S2 Climb",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "s2_climb"
+  },
+  {
+    "name": "S2 Headbash",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "s2_headbash"
+  },
+  {
+    "name": "Sparx Gem Collect Range",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "sparx_gemcollectrange"
+  },
+  {
+    "name": "Sparx Extra Hit Point",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "sparx_extrahitpoint"
+  },
+  {
+    "name": "Sparx Chest Breaking",
+    "type": "toggle",
+    "img": "images/items.png",
+    "codes": "sparx_chestbreaking"
+  }
+]
