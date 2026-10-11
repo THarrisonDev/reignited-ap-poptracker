@@ -7,3 +7,6 @@ user-override/
 
 # --- Hand-placed pin coordinates (local-only; see README.md) ---
 pin_coords.json
+
+# --- Build output (make package) ---
+/dist/
