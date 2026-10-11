@@ -1,3 +1,7 @@
+-- Author: Tim Harrison
+-- Created: 2026-10-09
+-- Updated: 2026-10-11
+
 -- Archipelago autotracking for Spyro Reignited Trilogy.
 --
 -- Data flow (mirrors the UE4SS client, see AGENTS.md):

@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Author: Tim Harrison
+# Created: 2026-10-09
+# Updated: 2026-10-11
+
 """Locally place the pack's map pins on the real level maps.
 
 The generator drops pins on a synthetic grid because nothing knows where a

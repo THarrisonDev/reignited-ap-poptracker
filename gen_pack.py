@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Author: Tim Harrison
+# Created: 2026-10-09
+# Updated: 2026-10-11
+
 """Generate the PopTracker pack's maps, locations and layouts.
 
 Single source of truth: the repo's JSON data files, read through the world's

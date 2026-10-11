@@ -1,3 +1,7 @@
+-- Author: Tim Harrison
+-- Created: 2026-10-09
+-- Updated: 2026-10-11
+
 -- Spyro Reignited Trilogy AP pack entry point.
 -- Scaffolding: each section has a TODO; fill in as we build.
 

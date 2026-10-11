@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Author: Tim Harrison
+# Created: 2026-10-09
+# Updated: 2026-10-11
+
 """Import the game's own minimaps into PopTracker's user-override directory.
 
 The pack ships flat placeholder backgrounds; PopTracker reads a pack's files
