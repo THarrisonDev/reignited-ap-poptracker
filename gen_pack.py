@@ -150,10 +150,10 @@ def load_items():
 
 
 def load_engine():
-    """world/data/__init__.py as a standalone module (not as part of the world
-    package, whose __init__ needs Archipelago)."""
+    """world/data/__init__.py from the sibling checkout, loaded standalone (the
+    world package's __init__ needs Archipelago)."""
     spec = importlib.util.spec_from_file_location(
-        "srt_world_data", os.path.join(DATA, "__init__.py"))
+        "srt_pack_data", os.path.join(REPO, "world", "data", "__init__.py"))
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module

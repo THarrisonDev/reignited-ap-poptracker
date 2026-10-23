@@ -23,7 +23,6 @@ Run from anywhere:
     python3 <repo>/poptracker-pack/import_maps.py [--game 1|2|3|all]
         [--paks DIR] [--repak PATH] [--dest DIR] [--keep-alpha] [--dry-run]
 """
-import argparse
 import glob
 import json
 import math
@@ -32,6 +31,8 @@ import re
 import shutil
 import subprocess
 import sys
+
+from cli import game_parser
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
@@ -137,9 +138,7 @@ def decode_bgra(uexp, keep_alpha):
 
 
 def main():
-    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    ap.add_argument("--game", default="all",
-                    choices=("1", "2", "3", "all", "spyro1", "spyro2", "spyro3"))
+    ap = game_parser(__doc__.splitlines()[0])
     ap.add_argument("--paks", help="Falcon/Content/Paks directory")
     ap.add_argument("--repak", help="path to the repak executable")
     ap.add_argument("--dest", help="override package dir (default ~/PopTracker/"

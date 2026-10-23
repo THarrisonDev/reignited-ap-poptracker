@@ -28,7 +28,6 @@ the map dimensions pre-checked). Run from anywhere:
 
 Then open http://127.0.0.1:<port>/ (defaults to 8765).
 """
-import argparse
 import contextlib
 import json
 import os
@@ -36,6 +35,8 @@ import sys
 import webbrowser
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from typing import ClassVar
+
+from cli import game_parser
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
@@ -330,9 +331,7 @@ class Handler(BaseHTTPRequestHandler):
 
 
 def main():
-    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    ap.add_argument("--game", default="all",
-                    choices=("1", "2", "3", "all", "spyro1", "spyro2", "spyro3"))
+    ap = game_parser(__doc__.splitlines()[0])
     ap.add_argument("--port", type=int, default=8765)
     ap.add_argument("--no-browser", action="store_true")
     args = ap.parse_args()
