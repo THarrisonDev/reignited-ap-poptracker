@@ -1,9 +1,9 @@
 -- Author: Tim Harrison
 -- Created: 2026-10-09
--- Updated: 2026-10-11
+-- Updated: 2026-10-31
 
--- Spyro Reignited Trilogy AP pack entry point.
--- Scaffolding: each section has a TODO; fill in as we build.
+-- Spyro Reignited Trilogy AP pack entry point: load the generated data
+-- (gen_pack.py) and the layout, then start Archipelago autotracking.
 
 -- View shape: no map art. Root tabbed layout -> one tab per game ->
 -- "Overview" tab (counters) + one tab per level/region. Each level tab is a

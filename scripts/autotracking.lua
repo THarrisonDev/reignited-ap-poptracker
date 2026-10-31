@@ -1,6 +1,6 @@
 -- Author: Tim Harrison
 -- Created: 2026-10-09
--- Updated: 2026-10-11
+-- Updated: 2026-10-31
 
 -- Archipelago autotracking for Spyro Reignited Trilogy.
 --
@@ -26,9 +26,9 @@ local AP_MAPS = require("scripts.spyro_locmap")
 local AP_ITEMS = require("scripts.spyro_itemmap")
 local AP_GOALS = require("scripts.spyro_goalmap")
 
--- Goal reporting off for now: the real client (checkd/game mod) owns GOAL.
--- Flip to true when testing against a throwaway server (TODO 3 isolated
--- server test); goal *tracking* (pings in the console) stays on either way.
+-- Goal reporting off: the real client (checkd/game mod) owns GOAL. Set true
+-- only when testing against a throwaway server; goal *tracking* (pings in the
+-- console) stays on either way.
 local ALLOW_GOAL_REPORT = false
 
 -- Generated table: spyro_levels.lua — game -> level -> {"@Loc/Sec", ...}
@@ -193,7 +193,7 @@ local function onLocation(location_id, location_name)
 end
 
 local function onScout(location_id, location_name, item_id, item_name, item_player)
-    -- TODO: show scout info (optional).
+    -- Scout info is not shown; the arguments are kept for the tracker API.
 end
 
 -- connect / clear -----------------------------------------------------------
@@ -293,9 +293,9 @@ local function onClear(slot_data)
             "SRT-AP: backfilled %d checked location(s)", n_checked))
     end
     queue_overlays()
-    -- TODO: item backlog backfill (server does not replay items on reconnect
-    -- with the same session; on a fresh PopTracker start the counters start
-    -- empty — Sync() backfill needs a full item scan, keep manual for now).
+    -- The item backlog is not backfilled: the server does not replay items on
+    -- reconnect with the same session, so a fresh PopTracker start begins with
+    -- empty counters (Sync() backfill would need a full item scan).
     try_report_goal()
 end
 

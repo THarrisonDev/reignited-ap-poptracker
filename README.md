@@ -126,7 +126,7 @@ python3 poptracker-pack/gen_pack.py     # "... N placed pins"
 level's on-map section label. It is treated like the map art: derived from the
 game, personal use, never committed.
 
-## TODOs (work one at a time)
+## Roadmap
 
 1. ~~items.json~~ DONE (stub visuals): counter consumables (dragons 80,
    S1 eggs 12, orbs 64, talismans 14, S3 eggs 146), per-game key counters
