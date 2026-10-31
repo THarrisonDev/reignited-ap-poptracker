@@ -1,0 +1,454 @@
+{
+  "spyro1": {
+    "spyro1_AlpineRidge": {},
+    "spyro1_Artisans": {
+      "Free Argus": {
+        "x": 267,
+        "y": 133
+      },
+      "Free Delbin": {
+        "x": 80,
+        "y": 270
+      },
+      "Free Nestor": {
+        "x": 138,
+        "y": 242
+      },
+      "Free Tomas": {
+        "x": 274,
+        "y": 245
+      },
+      "Reach tricky platform (Skill Point)": {
+        "x": 170,
+        "y": 157
+      }
+    },
+    "spyro1_BeastMakers": {
+      "Free Bruno": {
+        "x": 153,
+        "y": 278
+      },
+      "Free Cleetus": {
+        "x": 298,
+        "y": 289
+      }
+    },
+    "spyro1_Blowhard": {
+      "Free Altair": {
+        "x": 177,
+        "y": 207
+      }
+    },
+    "spyro1_CliffTown": {
+      "Catch the egg thief": {
+        "x": 262,
+        "y": 171
+      },
+      "Cliff Town Complete": {
+        "x": 253,
+        "y": 21
+      },
+      "Free Enzo": {
+        "x": 230,
+        "y": 66
+      },
+      "Free Halvor": {
+        "x": 252,
+        "y": 156
+      },
+      "Free Marco": {
+        "x": 233,
+        "y": 226
+      }
+    },
+    "spyro1_DarkHollow": {
+      "Dark Hollow Complete": {
+        "x": 328,
+        "y": 216
+      },
+      "Free Alban": {
+        "x": 179,
+        "y": 127
+      },
+      "Free Darius": {
+        "x": 303,
+        "y": 206
+      },
+      "Free Oswin": {
+        "x": 312,
+        "y": 319
+      }
+    },
+    "spyro1_DarkPassage": {
+      "Free Apara": {
+        "x": 59,
+        "y": 322
+      },
+      "Free Azizi": {
+        "x": 342,
+        "y": 109
+      },
+      "Free Bakari": {
+        "x": 296,
+        "y": 167
+      },
+      "Free Kasiya": {
+        "x": 240,
+        "y": 271
+      },
+      "Free Obasi": {
+        "x": 114,
+        "y": 302
+      }
+    },
+    "spyro1_DoctorShemp": {
+      "Doctor Shemp Defeated": {
+        "x": 252,
+        "y": 163
+      },
+      "Free Trondo": {
+        "x": 142,
+        "y": 239
+      },
+      "Perfect (Skill Point)": {
+        "x": 176,
+        "y": 243
+      }
+    },
+    "spyro1_DreamWeavers": {
+      "Free Lateef": {
+        "x": 159,
+        "y": 175
+      },
+      "Free Mazi": {
+        "x": 69,
+        "y": 186
+      },
+      "Free Zikomo": {
+        "x": 356,
+        "y": 215
+      }
+    },
+    "spyro1_DryCanyon": {
+      "Free Boris": {
+        "x": 72,
+        "y": 213
+      },
+      "Free Conan": {
+        "x": 285,
+        "y": 206
+      },
+      "Free Ivor": {
+        "x": 230,
+        "y": 168
+      },
+      "Free Maximos": {
+        "x": 163,
+        "y": 227
+      }
+    },
+    "spyro1_GnorcCove": {
+      "Free Lateef": {
+        "x": 109,
+        "y": 87
+      },
+      "Free Tomas": {
+        "x": 303,
+        "y": 210
+      }
+    },
+    "spyro1_GnorcGnexus": {
+      "Free Delbin": {
+        "x": 197,
+        "y": 194
+      },
+      "Free Magnus": {
+        "x": 220,
+        "y": 194
+      }
+    },
+    "spyro1_HauntedTowers": {
+      "Free Copano": {
+        "x": 244,
+        "y": 246
+      },
+      "Free Kosoko": {
+        "x": 125,
+        "y": 187
+      },
+      "Free Lutalo": {
+        "x": 281,
+        "y": 179
+      }
+    },
+    "spyro1_IceCavern": {
+      "Free Andor": {
+        "x": 237,
+        "y": 108
+      },
+      "Free Asher": {
+        "x": 252,
+        "y": 291
+      },
+      "Free Ragnar": {
+        "x": 275,
+        "y": 325
+      },
+      "Free Todor": {
+        "x": 126,
+        "y": 92
+      },
+      "Free Ulric": {
+        "x": 26,
+        "y": 131
+      },
+      "Ice Cavern Complete": {
+        "x": 231,
+        "y": 291
+      }
+    },
+    "spyro1_Jacques": {
+      "Free Revilo": {
+        "x": 92,
+        "y": 247
+      },
+      "Free Unika": {
+        "x": 220,
+        "y": 155
+      }
+    },
+    "spyro1_LoftyCastle": {
+      "Free Baruti": {
+        "x": 161,
+        "y": 319
+      },
+      "Free Mudada": {
+        "x": 244,
+        "y": 171
+      },
+      "Free Useni": {
+        "x": 85,
+        "y": 105
+      }
+    },
+    "spyro1_MagicCrafters": {
+      "Catch the egg thief (start area)": {
+        "x": 78,
+        "y": 191
+      },
+      "Catch the egg thief (supercharge ramp)": {
+        "x": 262,
+        "y": 111
+      },
+      "Free Boldar": {
+        "x": 310,
+        "y": 269
+      },
+      "Free Cosmos": {
+        "x": 121,
+        "y": 149
+      },
+      "Free Zantor": {
+        "x": 285,
+        "y": 85
+      }
+    },
+    "spyro1_Metalhead": {
+      "Free Sadiki": {
+        "x": 118,
+        "y": 222
+      }
+    },
+    "spyro1_MistyBog": {
+      "Free Bubba": {
+        "x": 120,
+        "y": 307
+      },
+      "Free Damon": {
+        "x": 352,
+        "y": 141
+      },
+      "Free Rosco": {
+        "x": 250,
+        "y": 192
+      },
+      "Free Zeke": {
+        "x": 82,
+        "y": 227
+      },
+      "Misty Bog Complete": {
+        "x": 79,
+        "y": 207
+      }
+    },
+    "spyro1_NightFlight": {},
+    "spyro1_PeaceKeepers": {
+      "Catch the egg thief": {
+        "x": 182,
+        "y": 50
+      },
+      "Free Gunnar": {
+        "x": 170,
+        "y": 70
+      },
+      "Free Magnus": {
+        "x": 57,
+        "y": 225
+      },
+      "Free Titan": {
+        "x": 309,
+        "y": 254
+      },
+      "Scare 6 Gnorcs into tents (Skill Point)": {
+        "x": 56,
+        "y": 266
+      }
+    },
+    "spyro1_StoneHill": {
+      "Burn the hidden pink tulip (Skill Point)": {
+        "x": 269,
+        "y": 196
+      },
+      "Catch the egg thief": {
+        "x": 253,
+        "y": 225
+      },
+      "Free Astor": {
+        "x": 181,
+        "y": 118
+      },
+      "Free Gavin": {
+        "x": 143,
+        "y": 210
+      },
+      "Free Gildas": {
+        "x": 311,
+        "y": 164
+      },
+      "Free Lindar": {
+        "x": 62,
+        "y": 179
+      },
+      "Stone Hill Complete": {
+        "x": 181,
+        "y": 95
+      }
+    },
+    "spyro1_SunnyFlight": {},
+    "spyro1_TerraceVillage": {
+      "Free Claude": {
+        "x": 278,
+        "y": 105
+      },
+      "Free Cyprin": {
+        "x": 323,
+        "y": 279
+      }
+    },
+    "spyro1_Toasty": {
+      "Free Nevin": {
+        "x": 105,
+        "y": 96
+      },
+      "Toasty Defeated": {
+        "x": 259,
+        "y": 164
+      }
+    },
+    "spyro1_TownSquare": {
+      "75% Gems": {
+        "x": 38,
+        "y": 40
+      },
+      "All Gems": {
+        "x": 82,
+        "y": 36
+      },
+      "All bulls stuck (Skill Point)": {
+        "x": 214,
+        "y": 108
+      },
+      "Catch the egg thief": {
+        "x": 47,
+        "y": 128
+      },
+      "Free Alvar": {
+        "x": 227,
+        "y": 162
+      },
+      "Free Devlin": {
+        "x": 158,
+        "y": 179
+      },
+      "Free Nils": {
+        "x": 238,
+        "y": 277
+      },
+      "Free Thor": {
+        "x": 219,
+        "y": 218
+      },
+      "Town Square Complete": {
+        "x": 289,
+        "y": 143
+      }
+    },
+    "spyro1_TreeTops": {
+      "Free Isaak": {
+        "x": 115,
+        "y": 221
+      },
+      "Free Jed": {
+        "x": 26,
+        "y": 179
+      },
+      "Free Lyle": {
+        "x": 210,
+        "y": 194
+      },
+      "Tree Tops Complete": {
+        "x": 357,
+        "y": 100
+      }
+    },
+    "spyro1_TwilightHarbor": {
+      "Free Cleetus": {
+        "x": 270,
+        "y": 210
+      },
+      "Free Cosmos": {
+        "x": 148,
+        "y": 286
+      }
+    },
+    "spyro1_WizardPeak": {
+      "Catch the egg thief (hidden platform)": {
+        "x": 204,
+        "y": 24
+      },
+      "Catch the egg thief (pool by steps)": {
+        "x": 282,
+        "y": 113
+      },
+      "Free Hexus": {
+        "x": 240,
+        "y": 179
+      },
+      "Free Jarvis": {
+        "x": 125,
+        "y": 296
+      },
+      "Free Lucas": {
+        "x": 312,
+        "y": 120
+      },
+      "Wizard Peak Complete": {
+        "x": 335,
+        "y": 130
+      }
+    }
+  },
+  "spyro3": {
+    "spyro3_SunriseSpring": {}
+  }
+}

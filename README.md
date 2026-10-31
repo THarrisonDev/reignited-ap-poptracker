@@ -123,8 +123,9 @@ python3 poptracker-pack/gen_pack.py     # "... N placed pins"
 ```
 
 `pin_coords.json` is `{game: {map_name: {section: {x, y}}}}`, keyed by the
-level's on-map section label. It is treated like the map art: derived from the
-game, personal use, never committed.
+level's on-map section label. It is committed so the generated pack reproduces
+in CI (`gen_pack.py --check`); the imported map art under `user-override/` stays
+local.
 
 ## Roadmap
 
