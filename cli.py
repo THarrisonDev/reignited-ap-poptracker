@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Author: Tim Harrison
 # Created: 2026-10-21
-# Updated: 2026-10-21
+# Updated: 2026-10-23
 
 """Shared command line for the pack's local dev tools (repo-only, never ships)."""
 

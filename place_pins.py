@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Author: Tim Harrison
 # Created: 2026-10-09
-# Updated: 2026-10-11
+# Updated: 2026-10-23
 
 """Locally place the pack's map pins on the real level maps.
 
